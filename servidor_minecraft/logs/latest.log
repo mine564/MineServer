@@ -80,3 +80,8 @@
 [19:36:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Angelo[/127.138.212.215:45201] logged in with entity id 3019 at (12.5, 67.0, 248.5)
 [19:36:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Angelo joined the game
 [19:38:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Angelo
+[19:40:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Monster Hunter]
+[19:42:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Stone Age]
+[19:42:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Angelo has made the advancement [Stone Age]
+[19:43:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Getting an Upgrade]
+[19:43:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Angelo has made the advancement [Getting an Upgrade]
