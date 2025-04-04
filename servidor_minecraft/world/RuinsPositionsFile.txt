@@ -12,6 +12,7 @@
 -343 67 402 -330 76 415 VolcanicVent.tml
 -341 63 556 -336 66 563 Melonfield.tml
 -301 77 650 -290 85 658 MinersHut.tml
+-280 74 726 -273 78 733 TinyFarmField.tml
 -277 67 165 -268 82 174 MoaiHead.tml
 -157 83 695 -150 92 702 Outcrop.tml
 -115 67 142 -100 75 157 Mausoleum.tml
