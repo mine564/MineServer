@@ -734,6 +734,12 @@
     },
     "done": true
   },
+  "dungeontactics:dungeoneering/get_lootbag": {
+    "criteria": {
+      "potion": "2025-04-04 22:43:42 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/armour/studded_armour": {
     "criteria": {
       "has_item": "2025-04-04 20:51:27 +0000"

@@ -17,9 +17,21 @@
     },
     "done": true
   },
+  "treasure2:recipes/crystal_skull_chest": {
+    "criteria": {
+      "has_skull": "2025-04-04 22:49:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_the_recipe": "2025-04-02 19:38:25 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/skull_chest": {
+    "criteria": {
+      "has_skull": "2025-04-04 22:49:49 +0000"
     },
     "done": true
   },
@@ -104,6 +116,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-02 19:39:02 +0000"
+    },
+    "done": true
+  },
+  "treasure2:recipes/gold_skull_chest": {
+    "criteria": {
+      "has_skull": "2025-04-04 22:49:49 +0000"
     },
     "done": true
   },
@@ -571,12 +589,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-04 22:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-04-02 19:49:01 +0000",
       "spider": "2025-04-02 19:40:42 +0000"
     },
     "done": false
+  },
+  "dungeontactics:dungeoneering/get_lootbag": {
+    "criteria": {
+      "potion": "2025-04-04 22:50:05 +0000"
+    },
+    "done": true
   },
   "dungeontactics:recipes/armour/stone_plate_armour": {
     "criteria": {
