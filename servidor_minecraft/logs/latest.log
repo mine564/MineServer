@@ -211,3 +211,9 @@
 [15:08:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
 [15:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Stone Age]
 [15:08:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Getting an Upgrade]
+[15:14:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, 10] in dimension 0 (overworld) while populating chunk [-17, 10], causing cascading worldgen lag.
+[15:14:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:14:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-21, 14] in dimension 0 (overworld) while populating chunk [-21, 15], causing cascading worldgen lag.
+[15:14:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[15:18:23] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-23, 32] in dimension 0 (overworld) while populating chunk [-22, 32], causing cascading worldgen lag.
+[15:18:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.

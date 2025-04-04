@@ -36,6 +36,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-04 15:12:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-04 15:08:32 +0000"
@@ -78,9 +84,27 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/brazier": {
+    "criteria": {
+      "has_torch": "2025-04-04 15:18:09 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/lantern_iron": {
+    "criteria": {
+      "has_torch": "2025-04-04 15:18:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-04 15:12:48 +0000"
     },
     "done": true
   },
@@ -113,6 +137,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-04 15:13:19 +0000"
     },
     "done": true
   },
@@ -189,6 +219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-04 15:12:48 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/wooden_table": {
     "criteria": {
       "has_wood": "2025-04-04 15:05:01 +0000"
@@ -231,6 +267,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-04 15:12:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-04-04 15:02:17 +0000"
@@ -266,6 +308,13 @@
       "has_recipe": "2025-04-04 15:05:01 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2025-04-04 15:15:15 +0000",
+      "raw_cod": "2025-04-04 15:13:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -321,9 +370,16 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-04 15:13:28 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/born_survivor": {
     "criteria": {
-      "stab": "2025-04-04 15:01:35 +0000"
+      "stab": "2025-04-04 15:01:35 +0000",
+      "cherrybomb": "2025-04-04 15:13:19 +0000"
     },
     "done": false
   },
@@ -366,6 +422,12 @@
   "dungeontactics:recipes/tools/fire_starter": {
     "criteria": {
       "has_item": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-04 15:12:48 +0000"
     },
     "done": true
   }

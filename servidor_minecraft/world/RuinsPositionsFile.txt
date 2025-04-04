@@ -9,10 +9,14 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-343 67 402 -330 76 415 VolcanicVent.tml
+-341 63 556 -336 66 563 Melonfield.tml
 -301 77 650 -290 85 658 MinersHut.tml
+-277 67 165 -268 82 174 MoaiHead.tml
 -115 67 142 -100 75 157 Mausoleum.tml
 -80 65 48 -73 68 53 Melonfield.tml
 -3 67 640 1 73 643 StonePillar.tml
 45 67 60 48 71 62 SkeletonHeadStatue.tml
+108 62 571 115 71 578 Outcrop.tml
 150 72 43 163 81 56 VolcanicVent.tml
 196 71 322 209 103 335 OreSpire.tml
