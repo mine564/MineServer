@@ -13,6 +13,7 @@
 -341 63 556 -336 66 563 Melonfield.tml
 -301 77 650 -290 85 658 MinersHut.tml
 -277 67 165 -268 82 174 MoaiHead.tml
+-157 83 695 -150 92 702 Outcrop.tml
 -115 67 142 -100 75 157 Mausoleum.tml
 -80 65 48 -73 68 53 Melonfield.tml
 -3 67 640 1 73 643 StonePillar.tml

@@ -12342,3 +12342,59 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [21:09:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:10:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:11:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:12:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:12:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:13:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:14:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:16:24] [Server thread/TRACE] [FML]: Handshake channel activating
+[21:16:24] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:16:24] [Server thread/DEBUG] [FML]:   Next: HELLO
+[21:16:25] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:16:25] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:16:25] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:23 mods->FMLHandshakeServerState$2:HELLO
+[21:16:25] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,levelup2@${version},FML@8.0.99.99,dldungeonsjbg@1.14.14,gottschcore@1.15.1,dungeontactics@DT-0.16.9,signpost@1.08.5,specialmobs@1.0.4_for_mc1.12.2,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,roguelike@1.8.0,cosmeticarmorreworked@1.12.2-v5a,spartanshields@1.5.5,twilightforest@3.11.1021,ignitehud@b0.5.4,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,mobends@1.2.1
+[21:16:25] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[21:16:25] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[21:16:25] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:16:25] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[21:16:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:16:28] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[21:16:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:16:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:16:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:48975] logged in with entity id 29325 at (9.546309724608149, 64.0, 297.6168518570862)
+[21:16:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[21:16:28] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:16:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:16:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Timed out
+[21:16:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
+[21:16:58] [Server thread/TRACE] [FML]: Handshake channel activating
+[21:16:58] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[21:16:58] [Server thread/DEBUG] [FML]:   Next: HELLO
+[21:16:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[21:16:59] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[21:16:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:23 mods->FMLHandshakeServerState$2:HELLO
+[21:16:59] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,levelup2@${version},FML@8.0.99.99,dldungeonsjbg@1.14.14,gottschcore@1.15.1,dungeontactics@DT-0.16.9,signpost@1.08.5,specialmobs@1.0.4_for_mc1.12.2,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,roguelike@1.8.0,cosmeticarmorreworked@1.12.2-v5a,spartanshields@1.5.5,twilightforest@3.11.1021,ignitehud@b0.5.4,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,mobends@1.2.1
+[21:16:59] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[21:16:59] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[21:16:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[21:16:59] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[21:17:00] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[21:17:00] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[21:17:00] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[21:17:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:17:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:38861] logged in with entity id 30349 at (9.546309724608149, 64.0, 297.6168518570862)
+[21:17:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[21:17:00] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[21:17:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Zombie
+[21:18:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:19:10] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[21:19:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:19:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Zombie
+[21:20:00] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[21:20:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:21:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:21:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

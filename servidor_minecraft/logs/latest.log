@@ -169,3 +169,19 @@
 [20:45:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:36135] logged in with entity id 364 at (-125.30000001192096, 59.0, 520.3000000119208)
 [20:45:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
 [20:51:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Acquire Hardware]
+[21:16:25] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:16:25] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,levelup2@${version},FML@8.0.99.99,dldungeonsjbg@1.14.14,gottschcore@1.15.1,dungeontactics@DT-0.16.9,signpost@1.08.5,specialmobs@1.0.4_for_mc1.12.2,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,roguelike@1.8.0,cosmeticarmorreworked@1.12.2-v5a,spartanshields@1.5.5,twilightforest@3.11.1021,ignitehud@b0.5.4,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,mobends@1.2.1
+[21:16:25] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[21:16:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:16:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:48975] logged in with entity id 29325 at (9.546309724608149, 64.0, 297.6168518570862)
+[21:16:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[21:16:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Timed out
+[21:16:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
+[21:16:59] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[21:16:59] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,levelup2@${version},FML@8.0.99.99,dldungeonsjbg@1.14.14,gottschcore@1.15.1,dungeontactics@DT-0.16.9,signpost@1.08.5,specialmobs@1.0.4_for_mc1.12.2,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,roguelike@1.8.0,cosmeticarmorreworked@1.12.2-v5a,spartanshields@1.5.5,twilightforest@3.11.1021,ignitehud@b0.5.4,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,mobends@1.2.1
+[21:16:59] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[21:17:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:17:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:38861] logged in with entity id 30349 at (9.546309724608149, 64.0, 297.6168518570862)
+[21:17:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[21:18:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Zombie
+[21:19:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Zombie
