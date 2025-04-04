@@ -186,3 +186,5 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [15:46:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:39613] logged in with entity id 925 at (-66.3659712938829, 69.0, 333.5102681284085)
 [15:46:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
 [15:50:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was shot by Skeleton
+[15:53:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Disconnected
+[15:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game

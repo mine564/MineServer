@@ -12355,3 +12355,20 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [15:49:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [15:50:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [15:50:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was shot by Skeleton
+[15:51:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:51:30] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[15:52:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:52:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:53:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Disconnected
+[15:53:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
+[15:53:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:54:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:55:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:55:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:56:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:57:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:58:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:58:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[15:59:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:00:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:01:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
