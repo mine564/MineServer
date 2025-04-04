@@ -261,6 +261,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-04 21:02:49 +0000",
       "cooked_beef": "2025-04-04 15:21:37 +0000",
       "beef": "2025-04-04 15:15:15 +0000",
       "raw_cod": "2025-04-04 15:13:19 +0000"
@@ -450,6 +451,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "extreme_hills_with_trees": "2025-04-04 21:03:54 +0000",
       "forest_hills": "2025-04-04 15:03:11 +0000",
       "plains": "2025-04-04 15:01:35 +0000",
       "extreme_hills": "2025-04-04 15:03:39 +0000"
