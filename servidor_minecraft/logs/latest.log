@@ -185,3 +185,13 @@
 [21:17:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
 [21:18:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Zombie
 [21:19:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Zombie
+[21:23:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Not Today, Thank You]
+[21:25:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ToonKris was kicked for floating too long!
+[21:25:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Flying is not enabled on this server
+[21:25:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
+[21:27:02] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[21:27:02] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,levelup2@${version},FML@8.0.99.99,dldungeonsjbg@1.14.14,gottschcore@1.15.1,dungeontactics@DT-0.16.9,signpost@1.08.5,specialmobs@1.0.4_for_mc1.12.2,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,roguelike@1.8.0,cosmeticarmorreworked@1.12.2-v5a,spartanshields@1.5.5,twilightforest@3.11.1021,ignitehud@b0.5.4,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,mobends@1.2.1
+[21:27:02] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[21:27:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:27:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:44617] logged in with entity id 49668 at (-94.00237213450933, 65.7531999805212, 435.4805135362489)
+[21:27:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
