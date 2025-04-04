@@ -1,0 +1,372 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-04 15:09:00 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/planks_from_sticks": {
+    "criteria": {
+      "has_stick": "2025-04-04 15:05:01 +0000",
+      "has_oak": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-04 15:09:00 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/stone_weapons": {
+    "criteria": {
+      "has_item": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-04-04 15:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/slingshot": {
+    "criteria": {
+      "has_item": "2025-04-04 15:09:00 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/ration": {
+    "criteria": {
+      "has_item": "2025-04-04 15:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/sticks_from_cactus": {
+    "criteria": {
+      "has_stick": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest_hills": "2025-04-04 15:03:11 +0000",
+      "plains": "2025-04-04 15:01:35 +0000",
+      "extreme_hills": "2025-04-04 15:03:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/wooden_chair": {
+    "criteria": {
+      "has_recipe": "2025-04-04 15:05:01 +0000",
+      "has_wood": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_the_recipe": "2025-04-04 15:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-04 15:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/wooden_table": {
+    "criteria": {
+      "has_wood": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/sticks_from_saplings": {
+    "criteria": {
+      "has_stick": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-04 15:02:17 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/snowballs_from_snow": {
+    "criteria": {
+      "has_snowball": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/string_from_wool": {
+    "criteria": {
+      "has_string": "2025-04-04 15:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fence": {
+    "criteria": {
+      "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/climbing_rope": {
+    "criteria": {
+      "has_recipe": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/armour/stone_plate_armour": {
+    "criteria": {
+      "has_item": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-04 15:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2025-04-04 15:01:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/wooden_weapons": {
+    "criteria": {
+      "has_item": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_door": {
+    "criteria": {
+      "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/barrel": {
+    "criteria": {
+      "has_oak": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:dungeoneering/root": {
+    "criteria": {
+      "kill": "2025-04-04 15:05:36 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/fire_starter": {
+    "criteria": {
+      "has_item": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  }
+}

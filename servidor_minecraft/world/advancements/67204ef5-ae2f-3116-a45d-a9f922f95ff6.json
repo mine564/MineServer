@@ -11,15 +11,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-02 19:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/bow": {
+  "dungeontactics:recipes/weapons/stone_weapons": {
     "criteria": {
-      "has_string": "2025-04-02 19:40:42 +0000"
+      "has_item": "2025-04-04 15:05:21 +0000"
     },
     "done": true
   },
@@ -38,6 +44,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-04-02 19:42:15 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/slingshot": {
+    "criteria": {
+      "has_item": "2025-04-04 15:05:21 +0000"
     },
     "done": true
   },
@@ -139,6 +151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-04-02 19:53:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
@@ -181,6 +199,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-02 19:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-04-02 19:53:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-02 19:42:15 +0000"
@@ -199,9 +229,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-02 19:52:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-02 19:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-04-02 19:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2025-04-02 19:53:38 +0000"
     },
     "done": true
   },
@@ -211,15 +259,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2025-04-02 19:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2025-04-02 19:53:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_snowball": "2025-04-02 19:42:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_gravel": "2025-04-02 19:47:58 +0000"
+      "has_flint": "2025-04-02 19:52:15 +0000"
     },
     "done": true
   },
@@ -241,6 +301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-04-02 19:47:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-04-02 19:36:59 +0000"
@@ -250,6 +316,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/snowballs_from_snow": {
+    "criteria": {
+      "has_snowball": "2025-04-04 15:05:21 +0000"
     },
     "done": true
   },
@@ -265,8 +337,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-04-02 19:53:38 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/string_from_wool": {
+    "criteria": {
+      "has_string": "2025-04-04 15:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-04-02 19:49:01 +0000",
       "spider": "2025-04-02 19:40:42 +0000"
     },
     "done": false
@@ -277,9 +362,16 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/climbing_rope": {
+    "criteria": {
+      "has_item": "2025-04-04 15:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-04-02 19:44:31 +0000"
+      "cooked_porkchop": "2025-04-02 19:44:31 +0000",
+      "cooked_beef": "2025-04-02 19:50:29 +0000"
     },
     "done": false
   },
@@ -289,9 +381,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-02 19:51:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-02 19:42:15 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/armour/stone_plate_armour": {
+    "criteria": {
+      "has_item": "2025-04-04 15:05:21 +0000"
     },
     "done": true
   },
@@ -307,6 +411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-04-02 19:49:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
@@ -316,6 +426,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2025-04-02 19:51:24 +0000"
     },
     "done": true
   },
@@ -337,6 +453,12 @@
     },
     "done": true
   },
+  "dungeontactics:dungeoneering/born_survivor": {
+    "criteria": {
+      "stab": "2025-04-04 15:05:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
@@ -352,6 +474,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-04-02 19:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-04-02 19:50:17 +0000"
     },
     "done": true
   },

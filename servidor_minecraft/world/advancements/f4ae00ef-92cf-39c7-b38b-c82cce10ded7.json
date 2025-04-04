@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2025-04-02 19:56:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-04-02 19:42:38 +0000"
@@ -159,6 +165,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-02 19:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-02 19:49:32 +0000"
     },
     "done": true
   },
@@ -273,6 +285,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-02 19:44:19 +0000",
+      "cooked_beef": "2025-04-02 19:53:30 +0000",
       "beef": "2025-04-02 19:39:55 +0000"
     },
     "done": false
@@ -292,6 +305,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-02 19:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-04-02 19:53:04 +0000"
     },
     "done": true
   },
