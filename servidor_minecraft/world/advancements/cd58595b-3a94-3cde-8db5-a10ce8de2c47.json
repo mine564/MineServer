@@ -12,6 +12,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/saddle": {
+    "criteria": {
+      "has_leather": "2025-04-08 16:18:12 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/stone_weapons": {
     "criteria": {
       "has_item": "2025-04-04 15:08:32 +0000"
@@ -229,6 +235,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-08 16:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-04-04 15:08:32 +0000"
@@ -247,6 +259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-04-08 16:17:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-04 21:23:20 +0000"
@@ -262,6 +280,12 @@
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_snowball": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-08 16:13:04 +0000"
     },
     "done": true
   },
@@ -319,6 +343,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-04-08 16:18:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
@@ -361,6 +391,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-08 16:18:58 +0000"
     },
     "done": true
   },
@@ -539,6 +575,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/mortar\u0026pestle": {
+    "criteria": {
+      "has_flint": "2025-04-08 16:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
@@ -598,7 +640,8 @@
       "extreme_hills_with_trees": "2025-04-04 21:03:54 +0000",
       "forest_hills": "2025-04-04 15:03:11 +0000",
       "plains": "2025-04-04 15:01:35 +0000",
-      "extreme_hills": "2025-04-04 15:03:39 +0000"
+      "extreme_hills": "2025-04-04 15:03:39 +0000",
+      "river": "2025-04-08 16:20:09 +0000"
     },
     "done": false
   },
@@ -617,6 +660,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-08 16:13:04 +0000"
     },
     "done": true
   },
@@ -749,6 +798,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-04-08 16:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-08 16:18:58 +0000"
     },
     "done": true
   },

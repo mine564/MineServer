@@ -365,3 +365,8 @@
 2025-04-08 16:01:21,022 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/aged_ruleset.json at ./world/data/decay/treasure2/rulesets/aged_ruleset.json but it doesn't exist.
 2025-04-08 16:01:21,027 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/default_ruleset.json at ./world/data/decay/treasure2/rulesets/default_ruleset.json but it doesn't exist.
 2025-04-08 16:01:21,028 [Server thread] WARN Treasure2 | TreasureDecayManager.java:201 | Expected to find meta treasure2:rulesets/ruinous_ruleset.json at ./world/data/decay/treasure2/rulesets/ruinous_ruleset.json but it doesn't exist.
+2025-04-08 16:18:35,289 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 8 72 744
+2025-04-08 16:18:50,544 [Server thread] INFO Treasure2 | WellGenerator.java:123 | CHEATER! Wishing Well at coords: -218 78 760
+2025-04-08 16:19:27,819 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: -152 70 776
+2025-04-08 16:19:56,348 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! RARE chest at coords: -216 84 824
+2025-04-08 16:20:02,594 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 72 88 840

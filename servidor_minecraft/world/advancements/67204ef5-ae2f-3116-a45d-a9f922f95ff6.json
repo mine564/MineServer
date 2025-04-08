@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/saddle": {
+    "criteria": {
+      "has_leather": "2025-04-08 16:19:02 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/stone_weapons": {
     "criteria": {
       "has_item": "2025-04-04 15:05:21 +0000"
@@ -279,6 +285,12 @@
   "dungeontactics:recipes/tools/boomglove": {
     "criteria": {
       "has_gunpowder": "2025-04-04 22:58:10 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-04-08 16:19:02 +0000"
     },
     "done": true
   },
