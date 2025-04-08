@@ -1154,3 +1154,7 @@
 [16:05:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [16:05:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:59063] logged in with entity id 3263 at (-102.30000001192099, 59.0, 524.4390176448392)
 [16:05:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[16:21:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[16:22:48] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [6, 44] in dimension 0 (overworld) while populating chunk [6, 45], causing cascading worldgen lag.
+[16:22:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:24:16] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce

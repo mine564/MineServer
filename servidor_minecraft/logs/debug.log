@@ -18852,3 +18852,20 @@ Caused by: java.io.FileNotFoundException: https://raw.githubusercontent.com/Modd
 [16:19:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:20:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [16:20:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:21:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[16:21:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:22:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:22:48] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [6, 44] in dimension 0 (overworld) while populating chunk [6, 45], causing cascading worldgen lag.
+[16:22:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:23:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:23:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:24:16] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce
+[16:24:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:25:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:26:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:27:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:28:22] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:29:07] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:29:52] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[16:30:37] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

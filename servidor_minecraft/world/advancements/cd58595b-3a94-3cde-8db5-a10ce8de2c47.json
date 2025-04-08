@@ -30,6 +30,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-04-04 15:05:01 +0000"
@@ -39,6 +45,12 @@
   "treasure2:recipes/skull_chest": {
     "criteria": {
       "has_skull": "2025-04-04 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
     },
     "done": true
   },
@@ -72,6 +84,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-04-04 15:05:01 +0000"
@@ -87,6 +105,18 @@
   "minecraft:recipes/building_blocks/snow": {
     "criteria": {
       "has_snowball": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
     },
     "done": true
   },
@@ -126,6 +156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/ironlinks": {
     "criteria": {
       "has_ingot": "2025-04-04 20:51:27 +0000"
@@ -135,6 +171,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
     },
     "done": true
   },
@@ -174,6 +216,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/cushions": {
+    "criteria": {
+      "has_recipe": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/key_ring": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
@@ -189,6 +237,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-04-04 20:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-08 16:22:07 +0000"
     },
     "done": true
   },
@@ -223,6 +277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
@@ -232,6 +292,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_the_recipe": "2025-04-04 15:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-08 16:22:25 +0000"
     },
     "done": true
   },
@@ -283,6 +349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-08 16:13:04 +0000"
@@ -304,6 +376,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-08 16:22:35 +0000"
     },
     "done": true
   },
@@ -331,6 +409,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-04 21:31:44 +0000"
@@ -340,6 +424,12 @@
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_string": "2025-04-04 15:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
     },
     "done": true
   },
@@ -412,6 +502,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-08 16:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-08 16:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-04 15:09:00 +0000"
@@ -433,6 +535,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-04-04 20:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-08 16:22:35 +0000"
     },
     "done": true
   },
@@ -472,6 +580,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/born_survivor": {
     "criteria": {
       "stab": "2025-04-04 15:01:35 +0000",
@@ -500,6 +614,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-04 21:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
     },
     "done": true
   },
@@ -593,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-04-04 22:55:47 +0000"
@@ -637,6 +763,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2025-04-08 16:27:22 +0000",
       "extreme_hills_with_trees": "2025-04-04 21:03:54 +0000",
       "forest_hills": "2025-04-04 15:03:11 +0000",
       "plains": "2025-04-04 15:01:35 +0000",
@@ -648,6 +775,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
     },
     "done": true
   },
@@ -753,6 +886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-08 16:22:25 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/iron_weapons": {
     "criteria": {
       "has_item": "2025-04-04 20:51:27 +0000"
@@ -801,6 +940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-08 16:18:58 +0000"
@@ -822,6 +967,12 @@
   "dungeontactics:recipes/armour/studded_armour": {
     "criteria": {
       "has_item": "2025-04-04 20:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
     },
     "done": true
   },
@@ -855,9 +1006,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/tools/iron_ring": {
     "criteria": {
       "has_iron": "2025-04-08 16:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-08 16:22:07 +0000"
     },
     "done": true
   },
