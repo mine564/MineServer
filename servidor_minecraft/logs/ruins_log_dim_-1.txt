@@ -1,3 +1,4 @@
+Did not find any Building data for ./config/ruins_config/aether_highlands, creating empty folder for it: failed
 
 Loading options from: /workspaces/MineServer/servidor_minecraft/world/DIM-1
 tries_per_chunk_normal = 6

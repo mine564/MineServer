@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-08 16:02:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-04 21:31:44 +0000"
@@ -740,6 +746,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-08 16:05:41 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/iron_pendant": {
+    "criteria": {
+      "has_iron": "2025-04-08 16:02:45 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/get_lootbag": {
     "criteria": {
       "potion": "2025-04-04 22:43:42 +0000"
@@ -779,6 +797,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/iron_ring": {
+    "criteria": {
+      "has_iron": "2025-04-08 16:02:45 +0000"
     },
     "done": true
   },
