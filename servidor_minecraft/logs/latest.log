@@ -1158,3 +1158,7 @@
 [16:22:48] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [6, 44] in dimension 0 (overworld) while populating chunk [6, 45], causing cascading worldgen lag.
 [16:22:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [16:24:16] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce
+[16:32:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Isn't It Iron Pick]
+[16:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Isn't It Iron Pick]
+[16:34:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Disconnected
+[16:34:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game

@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/potshot": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 16:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-04-04 15:05:01 +0000"
@@ -439,6 +445,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/boomglove": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 16:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
@@ -562,6 +574,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-08 16:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-04-04 21:31:44 +0000"
@@ -680,6 +698,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2025-04-04 15:09:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 16:33:03 +0000"
     },
     "done": true
   },
@@ -838,6 +862,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/bombs": {
+    "criteria": {
+      "has_item": "2025-04-08 16:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
@@ -847,6 +877,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-04-04 21:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-08 16:30:52 +0000"
     },
     "done": true
   },
@@ -1027,6 +1063,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-04 20:51:27 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/powderkeg": {
+    "criteria": {
+      "has_gunpowder": "2025-04-08 16:33:03 +0000"
     },
     "done": true
   },
