@@ -1,13 +1,3 @@
-Did not find any Building data for ./config/ruins_config/sand_plains, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/aether_highlands, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/dead_oasis, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/limestone_crags, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/limestone_mountains, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/deadwood_forest, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/oasis, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/sand_dunes, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/sand_hills, creating empty folder for it: success
-Did not find any Building data for ./config/ruins_config/dried_river, creating empty folder for it: success
 
 Loading options from: /workspaces/MineServer/servidor_minecraft/world/Dim-Aether
 tries_per_chunk_normal = 6

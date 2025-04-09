@@ -19,14 +19,16 @@
 -178 68 778 -173 74 783 CaveSpiderBurrow.tml
 -157 83 695 -150 92 702 Outcrop.tml
 -115 67 142 -100 75 157 Mausoleum.tml
--84 73 844 -71 82 857 VolcanicVent.tml
 -84 67 747 -74 76 759 StoneHouseMruined.tml
+-84 73 844 -71 82 857 VolcanicVent.tml
 -80 65 48 -73 68 53 Melonfield.tml
 -3 67 640 1 73 643 StonePillar.tml
 -1 72 711 3 74 715 EmeraldOreOutcrop.tml
 9 66 884 24 74 893 Archway.tml
 45 67 60 48 71 62 SkeletonHeadStatue.tml
 108 62 571 115 71 578 Outcrop.tml
+113 123 804 123 128 814 RuinedSmallFountainDiagonal.tml
+122 84 732 129 87 737 PumpkinField.tml
 135 66 497 142 70 504 TinyFarmField.tml
 150 72 43 163 81 56 VolcanicVent.tml
 196 71 322 209 103 335 OreSpire.tml
