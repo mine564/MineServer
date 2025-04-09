@@ -71,6 +71,18 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/armour/diamond_plate_armour": {
+    "criteria": {
+      "has_item": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-09 21:20:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
@@ -116,6 +128,12 @@
   "treasure2:recipes/pilferers_lock_pick": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
     },
     "done": true
   },
@@ -252,6 +270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/treasure_tool": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
@@ -312,6 +336,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_snowball": "2025-04-02 19:42:58 +0000"
@@ -369,6 +399,12 @@
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_string": "2025-04-04 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/diamond": {
+    "criteria": {
+      "has_recipe": "2025-04-09 21:17:20 +0000"
     },
     "done": true
   },
@@ -542,6 +578,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/cut_diamond": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
@@ -575,6 +617,12 @@
   "dungeontactics:recipes/tools/fire_starter": {
     "criteria": {
       "has_item": "2025-04-04 15:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-09 21:20:28 +0000"
     },
     "done": true
   },
@@ -676,6 +724,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-09 21:20:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-02 19:42:15 +0000"
@@ -726,6 +786,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
     },
     "done": true
   },
@@ -909,6 +975,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-09 20:56:32 +0000"
@@ -925,6 +1003,12 @@
   "aether_legacy:recipes/tools/iron_pendant": {
     "criteria": {
       "has_iron": "2025-04-09 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
     },
     "done": true
   },
@@ -970,6 +1054,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-02 19:42:15 +0000"
@@ -982,15 +1072,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-04-02 19:51:24 +0000"
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-02 19:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:17:20 +0000"
     },
     "done": true
   },
@@ -1039,6 +1147,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/diamond_weapons": {
+    "criteria": {
+      "has_item": "2025-04-09 21:17:20 +0000"
     },
     "done": true
   }

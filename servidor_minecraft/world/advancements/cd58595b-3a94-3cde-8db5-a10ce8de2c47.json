@@ -48,9 +48,21 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/armour/diamond_plate_armour": {
+    "criteria": {
+      "has_item": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-09 21:15:56 +0000"
     },
     "done": true
   },
@@ -193,6 +205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
@@ -229,6 +247,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-09 21:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-08 16:13:04 +0000"
@@ -262,6 +292,12 @@
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_string": "2025-04-04 15:09:00 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/diamond": {
+    "criteria": {
+      "has_recipe": "2025-04-09 21:18:38 +0000"
     },
     "done": true
   },
@@ -418,6 +454,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-09 21:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-04 21:31:44 +0000"
@@ -460,6 +502,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-09 21:15:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-04 15:08:32 +0000"
@@ -481,6 +535,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
     },
     "done": true
   },
@@ -598,6 +658,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/silver_weapons": {
+    "criteria": {
+      "has_item": "2025-04-09 21:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-08 16:18:58 +0000"
@@ -616,9 +694,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/armour/silver_armour": {
+    "criteria": {
+      "has_item": "2025-04-09 21:21:45 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/armour/silver_plate_armour": {
+    "criteria": {
+      "has_item": "2025-04-09 21:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
     },
     "done": true
   },
@@ -634,9 +736,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
     },
     "done": true
   },
@@ -733,6 +847,12 @@
   "treasure2:recipes/pilferers_lock_pick": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
     },
     "done": true
   },
@@ -910,6 +1030,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/silver_tools": {
+    "criteria": {
+      "has_item": "2025-04-09 21:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-04-04 15:05:01 +0000"
@@ -1025,6 +1151,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/cut_diamond": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
@@ -1106,6 +1238,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-04-04 22:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-09 21:15:56 +0000"
     },
     "done": true
   },
@@ -1240,6 +1378,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-09 21:15:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
@@ -1288,6 +1432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-04-04 15:08:32 +0000"
@@ -1333,6 +1483,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/diamond_weapons": {
+    "criteria": {
+      "has_item": "2025-04-09 21:18:38 +0000"
     },
     "done": true
   }

@@ -223,3 +223,6 @@ java.io.EOFException: null
 [21:03:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:52431] logged in with entity id 580 at (-50.24630305066466, 10.0, 781.0341506147886)
 [21:03:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
 [21:03:33] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 766
+[21:17:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Diamonds!]
+[21:18:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Diamonds!]
+[21:20:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Into Fire]
