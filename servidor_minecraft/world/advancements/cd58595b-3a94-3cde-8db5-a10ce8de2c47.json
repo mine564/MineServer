@@ -550,6 +550,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/yellow_cape": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-09 21:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-04-09 21:15:56 +0000"
@@ -772,6 +778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-09 21:52:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
@@ -811,6 +823,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-09 21:52:49 +0000"
     },
     "done": true
   },
@@ -1519,6 +1537,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2025-04-09 20:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-09 21:52:49 +0000"
     },
     "done": true
   },

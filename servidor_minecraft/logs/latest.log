@@ -348,3 +348,5 @@ java.io.EOFException: null
 [21:51:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris fell from a high place
 [21:52:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CUERVO lost connection: Timed out
 [21:52:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUERVO left the game
+[22:00:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
+[22:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Skeleton
