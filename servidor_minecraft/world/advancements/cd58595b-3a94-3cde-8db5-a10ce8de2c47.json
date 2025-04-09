@@ -454,6 +454,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/radio": {
+    "criteria": {
+      "has_cat": "2025-04-09 20:47:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-04 15:08:32 +0000"
@@ -603,6 +609,12 @@
       "has_iron": "2025-04-08 16:02:45 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_villager": "2025-04-09 20:46:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
@@ -1070,6 +1082,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-09 20:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie_villager": "2025-04-09 20:46:20 +0000"
     },
     "done": true
   },
