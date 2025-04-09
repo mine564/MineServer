@@ -126,6 +126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-09 20:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2025-04-04 15:05:01 +0000"
@@ -241,6 +247,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/traps/fan_block": {
+    "criteria": {
+      "has_item": "2025-04-09 20:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_red_dye": "2025-04-09 20:15:40 +0000"
@@ -307,6 +319,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/pistonglove": {
+    "criteria": {
+      "has_recipe": "2025-04-09 20:34:19 +0000"
     },
     "done": true
   },
@@ -484,6 +502,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-04-09 20:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-04-04 21:24:46 +0000"
@@ -559,6 +583,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-04-04 15:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-04-09 20:34:19 +0000"
     },
     "done": true
   },
@@ -664,6 +694,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/engineers_wrench": {
+    "criteria": {
+      "has_recipe": "2025-04-09 20:42:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-04-09 20:32:20 +0000"
@@ -751,6 +787,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2025-04-09 20:09:41 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/powered_fence": {
+    "criteria": {
+      "has_item": "2025-04-09 20:42:47 +0000"
     },
     "done": true
   },
@@ -965,6 +1007,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-04-09 20:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
@@ -995,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/noteblock": {
+    "criteria": {
+      "has_redstone": "2025-04-09 20:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-04 21:31:44 +0000"
@@ -1010,6 +1064,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-04 15:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-04-09 20:34:19 +0000"
     },
     "done": true
   },
@@ -1183,6 +1243,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-04-09 20:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-04-09 20:34:19 +0000"
     },
     "done": true
   },
