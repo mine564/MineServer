@@ -216,3 +216,4 @@
 [20:06:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:50597] logged in with entity id 13132 at (-12.40554129328661, 67.0, 296.303209682165)
 [20:06:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
 [20:13:21] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table dungeontactics:/loot_bags/food_bag
+[20:15:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Acquire Hardware]
