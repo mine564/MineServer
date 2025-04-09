@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2025-04-02 19:38:42 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-02 19:43:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -174,9 +186,21 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/gold_gloves": {
+    "criteria": {
+      "has_gold": "2025-04-09 22:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/alchemical_cauldron": {
+    "criteria": {
+      "has_ingot": "2025-04-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -234,6 +258,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/golden_weapons": {
+    "criteria": {
+      "has_item": "2025-04-09 22:55:01 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/boomglove": {
     "criteria": {
       "has_gunpowder": "2025-04-04 22:58:10 +0000"
@@ -243,6 +273,12 @@
   "aether_legacy:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-04-08 16:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -348,6 +384,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -476,6 +518,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-04-02 19:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -613,6 +661,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/tools/gold_pendant": {
+    "criteria": {
+      "has_gold": "2025-04-09 22:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-09 21:17:20 +0000"
@@ -655,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/crystal_skull_chest": {
     "criteria": {
       "has_skull": "2025-04-04 22:49:49 +0000"
@@ -676,6 +736,12 @@
   "dungeontactics:recipes/weapons/slingshot": {
     "criteria": {
       "has_item": "2025-04-04 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/armour/golden_plate_armour": {
+    "criteria": {
+      "has_item": "2025-04-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -706,6 +772,12 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2025-04-09 21:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -805,6 +877,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow_layer": {
     "criteria": {
       "has_snowball": "2025-04-02 19:42:58 +0000"
@@ -859,6 +937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
@@ -874,6 +958,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-04-09 20:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -995,6 +1085,18 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "spider": "2025-04-02 19:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/gold_ring": {
+    "criteria": {
+      "has_gold": "2025-04-09 22:55:01 +0000"
     },
     "done": true
   },
@@ -1138,6 +1240,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-09 21:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-09 22:55:01 +0000"
     },
     "done": true
   },
