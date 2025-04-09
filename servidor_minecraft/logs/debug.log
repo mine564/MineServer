@@ -18949,3 +18949,36 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [20:01:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:02:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:03:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:03:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:04:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:05:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:06:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:06:14] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:06:14] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:06:14] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:06:14] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:06:14] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[20:06:14] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:26 mods->FMLHandshakeServerState$2:HELLO
+[20:06:14] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
+[20:06:14] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[20:06:14] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: WAITINGCACK
+[20:06:14] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:06:14] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: COMPLETE
+[20:06:15] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:06:15] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: DONE
+[20:06:15] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:06:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:06:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:50597] logged in with entity id 13132 at (-12.40554129328661, 67.0, 296.303209682165)
+[20:06:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
+[20:06:15] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:06:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:07:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:08:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:09:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:10:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:11:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:12:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:13:21] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table dungeontactics:/loot_bags/food_bag
+[20:13:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
