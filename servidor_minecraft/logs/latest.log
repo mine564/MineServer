@@ -350,3 +350,6 @@ java.io.EOFException: null
 [21:52:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUERVO left the game
 [22:00:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
 [22:02:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Skeleton
+[22:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Sweet dreams]
+[22:20:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: angelo moved wrongly!
+[22:21:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Sweet dreams]
