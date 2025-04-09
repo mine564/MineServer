@@ -18900,3 +18900,39 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [19:41:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
 [19:42:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:42:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:43:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:44:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:45:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:45:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was killed by Witch using magic
+[19:45:46] [Server thread/DEBUG] [twilightforest]: Player angelo respawned and received items held in storage
+[19:45:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:46:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: angelo lost connection: Disconnected
+[19:46:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo left the game
+[19:46:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:47:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:48:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:48:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:49:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:50:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:51:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:51:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:52:21] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:52:21] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:52:21] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:52:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:52:21] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[19:52:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:26 mods->FMLHandshakeServerState$2:HELLO
+[19:52:21] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
+[19:52:21] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[19:52:21] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[19:52:21] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:52:21] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[19:52:23] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:52:23] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[19:52:23] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:52:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:52:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:44409] logged in with entity id 6614 at (-43.69999998807921, 32.0, 771.4791741625644)
+[19:52:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[19:52:24] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:52:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:53:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
