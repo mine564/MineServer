@@ -319,15 +319,15 @@
     },
     "done": true
   },
-  "dungeontactics:recipes/weapons/golden_weapons": {
-    "criteria": {
-      "has_item": "2025-04-09 21:22:57 +0000"
-    },
-    "done": true
-  },
   "dungeontactics:recipes/misc/diamond": {
     "criteria": {
       "has_recipe": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/golden_weapons": {
+    "criteria": {
+      "has_item": "2025-04-09 21:22:57 +0000"
     },
     "done": true
   },
