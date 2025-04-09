@@ -226,3 +226,16 @@ java.io.EOFException: null
 [21:17:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Diamonds!]
 [21:18:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Diamonds!]
 [21:20:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Into Fire]
+[21:32:57] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: angelo moved wrongly!
+[21:33:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was slain by Cinder
+[21:35:03] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[21:35:03] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 33 mods : minecraft@1.12.2,mclib@2.4.2,levelup2@${version},mowziesmobs@1.5.8,dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,techguns_core@1.12.2-1.0,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,llibrary@1.7.20,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,aquaculture@1.6.8,emoticons@1.1.2,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1,techguns@2.0.2.0
+[21:35:03] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[21:35:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:35:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CUERVO[/127.252.100.175:60663] logged in with entity id 30659 at (17.5, 65.0, 249.5)
+[21:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUERVO joined the game
+[21:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CUERVO> j
+[21:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> no hablo contigo
+[21:37:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> tonto
+[21:40:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUERVO was slain by Spider
+[21:42:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CUERVO was slain by Zombie
