@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2025-04-09 20:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
@@ -658,6 +664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-09 20:32:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
@@ -977,6 +989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-09 20:32:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-04 21:31:44 +0000"
@@ -992,6 +1010,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-04-04 15:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-09 20:32:20 +0000"
     },
     "done": true
   },
@@ -1033,6 +1057,12 @@
   "dungeontactics:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-08 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2025-04-09 20:28:44 +0000"
     },
     "done": true
   },
@@ -1090,6 +1120,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-09 20:31:36 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/iron_weapons": {
     "criteria": {
       "has_item": "2025-04-04 20:51:27 +0000"
@@ -1135,6 +1171,12 @@
   "dungeontactics:dungeoneering/get_lootbag": {
     "criteria": {
       "potion": "2025-04-04 22:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2025-04-09 20:28:44 +0000"
     },
     "done": true
   },

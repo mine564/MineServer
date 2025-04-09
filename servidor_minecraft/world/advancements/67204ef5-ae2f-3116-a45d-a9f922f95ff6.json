@@ -608,6 +608,14 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-04-09 20:24:57 +0000",
+      "iron_chestplate": "2025-04-09 20:24:57 +0000",
+      "iron_leggings": "2025-04-09 20:24:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-04-02 19:42:15 +0000"

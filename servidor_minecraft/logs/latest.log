@@ -217,3 +217,6 @@
 [20:06:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
 [20:13:21] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table dungeontactics:/loot_bags/food_bag
 [20:15:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Acquire Hardware]
+[20:24:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Suit Up]
+[20:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Take Aim]
+[20:32:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Into Fire]
