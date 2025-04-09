@@ -283,6 +283,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/magic_tether": {
+    "criteria": {
+      "has_pearl": "2025-04-09 22:42:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-08 16:13:04 +0000"

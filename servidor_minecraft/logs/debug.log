@@ -19155,3 +19155,20 @@ java.io.EOFException: null
 [22:31:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:32:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:32:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:33:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:34:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:35:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:35:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was blown up by Creeper
+[22:35:59] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[22:36:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:37:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:38:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:38:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> [name:"Refugio", x:-141, y:66, z:300]
+[22:38:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:39:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:40:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:40:26] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityFishHook from class com.teammetallurgy.aquaculture.handlers.EntityCustomFishHook
+[22:41:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:41:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:42:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

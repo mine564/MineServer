@@ -370,3 +370,6 @@ java.io.EOFException: null
 [22:28:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:55433] logged in with entity id 131170 at (-141.00005797077972, 65.0, 304.40940011210563)
 [22:28:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
 [22:30:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was blown up by Creeper
+[22:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was blown up by Creeper
+[22:38:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> [name:"Refugio", x:-141, y:66, z:300]
+[22:40:26] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityFishHook from class com.teammetallurgy.aquaculture.handlers.EntityCustomFishHook
