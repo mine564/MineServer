@@ -216,3 +216,11 @@
 [19:32:01] [Server thread/INFO] [mca]: Villager death: Emery. Caused by: Alice. UUID: 3ab4a686-08e5-4097-9f41-78184577020b
 [19:38:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityFishHook from class com.teammetallurgy.aquaculture.handlers.EntityCustomFishHook
 [19:58:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> t
+[21:02:00] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[21:02:00] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
+[21:02:00] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[21:02:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:02:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:40099] logged in with entity id 119074 at (-145.48954348988718, 70.0, 292.8391058985923)
+[21:02:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
+[21:06:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was burnt to a crisp whilst fighting Zombie
+[21:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Zombie
