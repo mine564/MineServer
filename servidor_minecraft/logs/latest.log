@@ -200,3 +200,17 @@
 [19:24:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [19:24:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:37309] logged in with entity id 331 at (-144.05750700253674, 70.0, 292.67050547534393)
 [19:24:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[19:31:26] [Server thread/INFO] [mca]: Villager death: Andreas. Caused by: Snake. UUID: 33c7b1ea-3e52-4533-a1bd-7e44c427aa19
+[19:31:30] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 13] in dimension 0 (overworld) while populating chunk [-25, 13], causing cascading worldgen lag.
+[19:31:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:31:30] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce
+[19:31:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 7] in dimension 0 (overworld) while populating chunk [-26, 8], causing cascading worldgen lag.
+[19:31:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:31:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 6] in dimension 0 (overworld) while populating chunk [-26, 8], causing cascading worldgen lag.
+[19:31:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:31:43] [Server thread/INFO] [mca]: Villager death: Bertram. Caused by: Jody. UUID: 805c8e7a-80e9-42a3-a74b-ca52bbcbdb6c
+[19:31:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-14, -2] in dimension 0 (overworld) while populating chunk [-14, -1], causing cascading worldgen lag.
+[19:31:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:31:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-15, -2] in dimension 0 (overworld) while populating chunk [-14, -2], causing cascading worldgen lag.
+[19:31:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:01] [Server thread/INFO] [mca]: Villager death: Emery. Caused by: Alice. UUID: 3ab4a686-08e5-4097-9f41-78184577020b

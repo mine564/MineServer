@@ -18889,3 +18889,31 @@ Caused by: java.io.FileNotFoundException: https://raw.githubusercontent.com/Modd
 [19:25:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:26:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:26:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:27:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:28:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:29:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:29:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:30:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:31:26] [Server thread/INFO] [mca]: Villager death: Andreas. Caused by: Snake. UUID: 33c7b1ea-3e52-4533-a1bd-7e44c427aa19
+[19:31:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:31:30] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 13] in dimension 0 (overworld) while populating chunk [-25, 13], causing cascading worldgen lag.
+[19:31:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:31:30] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce
+[19:31:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 7] in dimension 0 (overworld) while populating chunk [-26, 8], causing cascading worldgen lag.
+[19:31:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:31:33] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 6] in dimension 0 (overworld) while populating chunk [-26, 8], causing cascading worldgen lag.
+[19:31:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:31:43] [Server thread/INFO] [mca]: Villager death: Bertram. Caused by: Jody. UUID: 805c8e7a-80e9-42a3-a74b-ca52bbcbdb6c
+[19:31:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-14, -2] in dimension 0 (overworld) while populating chunk [-14, -1], causing cascading worldgen lag.
+[19:31:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:31:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-15, -2] in dimension 0 (overworld) while populating chunk [-14, -2], causing cascading worldgen lag.
+[19:31:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:32:01] [Server thread/INFO] [mca]: Villager death: Emery. Caused by: Alice. UUID: 3ab4a686-08e5-4097-9f41-78184577020b
+[19:32:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:32:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:33:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:34:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:35:13] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:35:58] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:36:43] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:37:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

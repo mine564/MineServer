@@ -276,6 +276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-12 19:33:50 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/boomglove": {
     "criteria": {
       "has_gunpowder": "2025-04-04 22:58:10 +0000"
@@ -1228,6 +1234,12 @@
   "dungeontactics:recipes/misc/convenience/sticks_from_saplings": {
     "criteria": {
       "has_stick": "2025-04-04 15:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-04-12 19:31:01 +0000"
     },
     "done": true
   },
