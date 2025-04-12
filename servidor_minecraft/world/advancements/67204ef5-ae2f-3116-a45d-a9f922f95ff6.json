@@ -648,6 +648,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/weapons/silver_weapons": {
+    "criteria": {
+      "has_item": "2025-04-12 20:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-04-09 20:56:32 +0000"
@@ -671,6 +677,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/armour/silver_armour": {
+    "criteria": {
+      "has_item": "2025-04-12 20:47:11 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/armour/silver_plate_armour": {
+    "criteria": {
+      "has_item": "2025-04-12 20:47:11 +0000"
     },
     "done": true
   },
@@ -965,6 +983,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/silver_tools": {
+    "criteria": {
+      "has_item": "2025-04-12 20:47:11 +0000"
     },
     "done": true
   },
