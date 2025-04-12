@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-12 19:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-04-02 19:38:42 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 19:25:54 +0000"
     },
     "done": true
   },
@@ -411,6 +423,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/dungeonpedia": {
+    "criteria": {
+      "has_book": "2025-04-12 19:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
@@ -715,6 +733,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-04-12 19:25:54 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/crystal_skull_chest": {
     "criteria": {
       "has_skull": "2025-04-04 22:49:49 +0000"
@@ -922,6 +946,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 19:25:54 +0000"
     },
     "done": true
   },
@@ -1198,6 +1228,12 @@
   "dungeontactics:recipes/misc/convenience/sticks_from_saplings": {
     "criteria": {
       "has_stick": "2025-04-04 15:14:21 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/convenience/books_from_shelves": {
+    "criteria": {
+      "has_book": "2025-04-12 19:25:54 +0000"
     },
     "done": true
   },

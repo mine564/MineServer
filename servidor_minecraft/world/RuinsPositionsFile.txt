@@ -10,8 +10,8 @@
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
 -412 64 860 -397 72 869 Archway.tml
--402 66 305 -395 69 310 PumpkinField.tml
 -402 91 671 -398 93 675 EmeraldOreOutcrop.tml
+-402 66 305 -395 69 310 PumpkinField.tml
 -399 105 657 -396 109 660 StoneGrill.tml
 -343 67 402 -330 76 415 VolcanicVent.tml
 -341 63 556 -336 66 563 Melonfield.tml
@@ -24,8 +24,8 @@
 -178 68 778 -173 74 783 CaveSpiderBurrow.tml
 -157 83 695 -150 92 702 Outcrop.tml
 -115 67 142 -100 75 157 Mausoleum.tml
--84 73 844 -71 82 857 VolcanicVent.tml
 -84 67 747 -74 76 759 StoneHouseMruined.tml
+-84 73 844 -71 82 857 VolcanicVent.tml
 -80 65 48 -73 68 53 Melonfield.tml
 -3 67 640 1 73 643 StonePillar.tml
 -1 72 711 3 74 715 EmeraldOreOutcrop.tml
