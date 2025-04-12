@@ -214,3 +214,4 @@
 [19:31:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-15, -2] in dimension 0 (overworld) while populating chunk [-14, -2], causing cascading worldgen lag.
 [19:31:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [19:32:01] [Server thread/INFO] [mca]: Villager death: Emery. Caused by: Alice. UUID: 3ab4a686-08e5-4097-9f41-78184577020b
+[19:38:46] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityFishHook from class com.teammetallurgy.aquaculture.handlers.EntityCustomFishHook
