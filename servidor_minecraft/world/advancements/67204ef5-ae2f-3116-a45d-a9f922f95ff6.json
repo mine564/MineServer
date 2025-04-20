@@ -300,6 +300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:40:11 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_string": "2025-04-04 15:05:21 +0000"
@@ -445,6 +451,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:40:11 +0000"
     },
     "done": true
   },
@@ -639,6 +651,12 @@
   "dungeontactics:recipes/weapons/bombs": {
     "criteria": {
       "has_item": "2025-04-04 22:58:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:40:11 +0000"
     },
     "done": true
   },
@@ -980,6 +998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:40:11 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/gold_skull_chest": {
     "criteria": {
       "has_skull": "2025-04-04 22:49:49 +0000"
@@ -1318,6 +1342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-04-04 15:13:49 +0000",
@@ -1497,6 +1527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-20 22:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-04-02 19:51:24 +0000"
@@ -1542,6 +1578,12 @@
   "dungeontactics:recipes/weapons/diamond_weapons": {
     "criteria": {
       "has_item": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2025-04-20 22:40:11 +0000"
     },
     "done": true
   }

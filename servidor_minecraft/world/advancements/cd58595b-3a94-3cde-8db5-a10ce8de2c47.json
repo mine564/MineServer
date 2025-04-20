@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2025-04-20 22:40:29 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/sticks_from_cactus": {
     "criteria": {
       "has_stick": "2025-04-04 15:05:01 +0000"
@@ -542,6 +548,12 @@
   "dungeontactics:dungeoneering/root": {
     "criteria": {
       "kill": "2025-04-04 15:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-04-20 22:40:29 +0000"
     },
     "done": true
   },
