@@ -511,3 +511,5 @@ Treasure2!: Requires version 2.3.2 but mod is not found on client.
 [23:05:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [23:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Skeleton
 [23:27:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Skeleton
+[23:37:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was shot by Skeleton
+[23:38:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was blown up by Creeper
