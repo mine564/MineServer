@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2025-04-09 21:42:45 +0000"
@@ -77,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
@@ -122,6 +134,12 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_the_recipe": "2025-04-09 21:06:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },
@@ -173,6 +191,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/cushions": {
+    "criteria": {
+      "has_recipe": "2025-04-20 22:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
@@ -207,6 +231,12 @@
   "aether_legacy:recipes/combat/gold_gloves": {
     "criteria": {
       "has_gold": "2025-04-09 22:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },
@@ -291,6 +321,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-04-12 19:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },
@@ -385,6 +421,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-04-02 19:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },
@@ -484,6 +526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-04-09 20:24:57 +0000",
@@ -531,6 +579,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-09 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },
@@ -704,6 +758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-04-09 21:17:20 +0000"
@@ -713,6 +773,12 @@
   "dungeontactics:recipes/misc/rings": {
     "criteria": {
       "has_iron": "2025-04-09 22:42:57 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/caltrops": {
+    "criteria": {
+      "has_item": "2025-04-20 22:23:48 +0000"
     },
     "done": true
   },
@@ -800,6 +866,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/slingshot": {
     "criteria": {
       "has_item": "2025-04-04 15:05:21 +0000"
@@ -842,6 +914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-09 22:55:01 +0000"
@@ -851,6 +929,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
     "criteria": {
       "has_lapis": "2025-04-09 21:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },
@@ -875,6 +959,12 @@
   "treasure2:recipes/thiefs_lock_pick": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },
@@ -905,6 +995,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-04-09 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },
@@ -956,6 +1052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2025-04-02 19:38:42 +0000"
@@ -983,6 +1085,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-02 19:47:58 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/misc/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },
@@ -1091,7 +1199,8 @@
   "dungeontactics:dungeoneering/born_survivor": {
     "criteria": {
       "stab": "2025-04-04 15:05:21 +0000",
-      "cherrybomb": "2025-04-04 21:36:08 +0000"
+      "cherrybomb": "2025-04-04 21:36:08 +0000",
+      "heart": "2025-04-20 22:13:48 +0000"
     },
     "done": false
   },
@@ -1110,6 +1219,12 @@
   "dungeontactics:recipes/misc/cut_diamond": {
     "criteria": {
       "has_diamond": "2025-04-09 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },
@@ -1322,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/get_lootbag": {
     "criteria": {
       "potion": "2025-04-04 22:50:05 +0000"
@@ -1379,6 +1500,18 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-04-02 19:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-04-20 22:21:06 +0000"
     },
     "done": true
   },

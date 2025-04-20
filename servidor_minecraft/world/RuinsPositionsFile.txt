@@ -9,12 +9,16 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-503 64 243 -496 68 250 TinyFarmField.tml
+-486 66 132 -482 68 136 EmeraldOreOutcrop.tml
+-480 70 -49 -469 81 -40 ArrowTrapTomb.tml
 -412 64 860 -397 72 869 Archway.tml
 -408 65 124 -395 74 137 VolcanicVent.tml
 -402 66 305 -395 69 310 PumpkinField.tml
 -402 91 671 -398 93 675 EmeraldOreOutcrop.tml
 -402 65 17 -395 74 24 Outcrop.tml
 -402 79 219 -397 84 226 ZombieHut.tml
+-399 66 -88 -395 72 -85 StonePillar.tml
 -399 105 657 -396 109 660 StoneGrill.tml
 -343 67 402 -330 76 415 VolcanicVent.tml
 -341 63 556 -336 66 563 Melonfield.tml

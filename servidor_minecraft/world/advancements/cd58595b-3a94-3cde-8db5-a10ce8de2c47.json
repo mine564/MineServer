@@ -174,6 +174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-20 22:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2025-04-04 15:05:01 +0000"
@@ -527,6 +533,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:29:01 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/root": {
     "criteria": {
       "kill": "2025-04-04 15:05:36 +0000"
@@ -797,6 +809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
@@ -965,6 +983,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/flour": {
+    "criteria": {
+      "has_wheat": "2025-04-20 22:29:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-04-09 23:06:40 +0000"
@@ -1115,6 +1139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
@@ -1130,6 +1160,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:29:01 +0000"
     },
     "done": true
   },
@@ -1184,6 +1220,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-04-09 23:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:29:01 +0000"
     },
     "done": true
   },
@@ -1608,6 +1650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-04-20 22:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-04-08 16:27:22 +0000",
@@ -1679,6 +1727,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-20 22:27:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-04 15:12:48 +0000"
@@ -1724,6 +1778,12 @@
   "dungeontactics:recipes/misc/convenience/sticks_from_saplings": {
     "criteria": {
       "has_stick": "2025-04-04 15:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-04-20 22:26:20 +0000"
     },
     "done": true
   },
@@ -1835,6 +1895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-20 22:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-04-04 15:08:32 +0000"
@@ -1898,6 +1964,12 @@
   "dungeontactics:recipes/weapons/diamond_weapons": {
     "criteria": {
       "has_item": "2025-04-09 21:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2025-04-20 22:29:01 +0000"
     },
     "done": true
   }

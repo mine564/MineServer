@@ -324,3 +324,27 @@ Treasure2!: Requires version 2.3.2 but mod is not found on client.
 [22:03:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [22:03:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:37431] logged in with entity id 13645 at (-146.2600630889902, 70.5625, 291.32543739653727)
 [22:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
+[22:16:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Enderman
+[22:17:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Zombie
+[22:27:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [A Seedy Place]
+[22:28:00] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce
+[22:28:00] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-31, -4] in dimension 0 (overworld) while populating chunk [-30, -3], causing cascading worldgen lag.
+[22:28:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:28:35] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-14, -9] in dimension 0 (overworld) while populating chunk [-13, -8], causing cascading worldgen lag.
+[22:28:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:28:35] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-13, -9] in dimension 0 (overworld) while populating chunk [-13, -8], causing cascading worldgen lag.
+[22:28:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:28:39] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-9, -9] in dimension 0 (overworld) while populating chunk [-8, -8], causing cascading worldgen lag.
+[22:28:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:29:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> zzzzzz
+[22:29:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> zzzzzzzzz
+[22:29:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> zzzzzzzzzz
+[22:29:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> zzzzzzzzzz
+[22:29:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> zzzzzzzzz
+[22:29:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> zzzzzzzzzzz
+[22:29:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> zzzzzzzzz
+[22:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> zzzzzzzzzz
+[22:29:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> zzzzzz
+[22:30:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> hsjhdasjhad
+[22:30:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> alsdlajdsal
+[22:30:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> akjhdkasjdh
