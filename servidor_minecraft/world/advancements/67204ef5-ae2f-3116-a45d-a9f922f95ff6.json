@@ -1208,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-04-20 22:52:31 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/lantern_magic": {
     "criteria": {
       "has_gold": "2025-04-12 19:43:48 +0000"
@@ -1241,6 +1247,7 @@
   "dungeontactics:dungeoneering/born_survivor": {
     "criteria": {
       "stab": "2025-04-04 15:05:21 +0000",
+      "ration": "2025-04-20 22:55:54 +0000",
       "cherrybomb": "2025-04-04 21:36:08 +0000",
       "heart": "2025-04-20 22:13:48 +0000"
     },

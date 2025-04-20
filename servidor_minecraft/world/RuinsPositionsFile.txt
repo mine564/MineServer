@@ -9,6 +9,9 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-747 68 153 -744 74 157 StonePillar.tml
+-612 63 201 -600 68 213 AncientFountain.tml
+-588 62 53 -583 68 58 CaveSpiderBurrow.tml
 -503 64 243 -496 68 250 TinyFarmField.tml
 -486 66 132 -482 68 136 EmeraldOreOutcrop.tml
 -480 70 -49 -469 81 -40 ArrowTrapTomb.tml
