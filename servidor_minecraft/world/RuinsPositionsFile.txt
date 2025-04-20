@@ -48,3 +48,7 @@
 135 66 497 142 70 504 TinyFarmField.tml
 150 72 43 163 81 56 VolcanicVent.tml
 196 71 322 209 103 335 OreSpire.tml
+239 62 505 244 65 512 Melonfield.tml
+268 64 590 270 68 593 SkeletonHeadStatue.tml
+274 64 339 279 70 344 CaveSpiderBurrow.tml
+277 73 244 284 76 249 PumpkinField.tml
