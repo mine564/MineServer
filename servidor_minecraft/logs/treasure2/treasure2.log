@@ -645,3 +645,4 @@
 2025-04-20 23:05:18,126 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 296 77 504
 2025-04-20 23:05:32,520 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! UNCOMMON chest at coords: 344 70 296
 2025-04-20 23:05:32,859 [Server thread] INFO Treasure2 | WellGenerator.java:123 | CHEATER! Wishing Well at coords: 342 67 552
+2025-04-20 23:18:51,080 [Server thread] INFO Treasure2 | SurfaceChestWorldGenerator.java:390 | CHEATER! COMMON chest at coords: 248 70 168
