@@ -318,3 +318,9 @@ Treasure2!: Requires version 2.3.2 but mod is not found on client.
 [21:59:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [21:59:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CouthCamera2242[/127.39.205.109:40681] logged in with entity id 3419 at (20.5, 63.0, 250.5)
 [21:59:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 joined the game
+[22:03:46] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:03:46] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
+[22:03:46] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[22:03:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:03:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:37431] logged in with entity id 13645 at (-146.2600630889902, 70.5625, 291.32543739653727)
+[22:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game

@@ -19014,3 +19014,35 @@ Treasure2!: Requires version 2.3.2 but mod is not found on client.
 [21:59:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:00:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:01:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:01:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:02:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:03:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:03:46] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:03:46] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:03:46] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:03:46] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:03:46] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:03:46] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:26 mods->FMLHandshakeServerState$2:HELLO
+[22:03:46] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
+[22:03:46] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[22:03:46] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[22:03:46] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:03:46] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[22:03:48] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:03:48] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[22:03:48] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:03:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:03:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:37431] logged in with entity id 13645 at (-146.2600630889902, 70.5625, 291.32543739653727)
+[22:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
+[22:03:48] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:04:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:04:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:05:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:06:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:07:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:07:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:08:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:09:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:10:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:10:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:11:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
