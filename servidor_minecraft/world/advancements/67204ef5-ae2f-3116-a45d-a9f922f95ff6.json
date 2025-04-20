@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 22:47:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-04-20 22:21:06 +0000"
@@ -460,6 +466,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-20 22:47:53 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/root": {
     "criteria": {
       "kill": "2025-04-04 15:15:00 +0000"
@@ -687,6 +699,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-02 19:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-04-20 22:45:58 +0000"
     },
     "done": true
   },

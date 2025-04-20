@@ -415,6 +415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-20 22:45:33 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-04-08 16:18:12 +0000"
