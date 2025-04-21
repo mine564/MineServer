@@ -283,3 +283,33 @@
 [20:43:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [20:43:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3265ms behind, skipping 65 tick(s)
 [20:46:52] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:50:55] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
+[20:50:57] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.gildedgames.the_aether.entities.util.EntityMountable from class com.gildedgames.the_aether.entities.util.EntitySaddleMount
+[20:51:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Hostile Paradise]
+[20:51:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4494ms behind, skipping 89 tick(s)
+[20:51:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Hostile Paradise]
+[20:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris fell from a high place
+[20:52:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
+[20:52:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
+[20:52:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
+[20:52:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
+[20:52:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
+[20:52:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
+[20:52:40] [Server thread/INFO] [FML]: Unloading dimension 4
+[20:52:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
+[20:54:18] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
+[20:54:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Timed out
+[20:54:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
+[20:54:37] [Server thread/INFO] [FML]: Unloading dimension 4
+[20:55:24] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[20:55:24] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
+[20:55:24] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[20:55:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:55:27] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
+[20:55:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:57775] logged in with entity id 955568 at (-139.95618071760487, 70.0, 304.4734140563266)
+[20:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[20:55:41] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: /127.183.74.177:56697 lost connection: Timed out
+[20:56:24] [Server thread/INFO] [FML]: Unloading dimension 4
+[20:56:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ToonKris moved too quickly! -0.9830927272475094,-9.984485112517206,-0.7055901126990989
+[20:56:36] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
+[20:57:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ToonKris moved too quickly! 0.0,-10.722248667987515,0.0

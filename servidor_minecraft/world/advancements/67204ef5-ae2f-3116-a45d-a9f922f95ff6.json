@@ -1001,6 +1001,12 @@
     },
     "done": true
   },
+  "aether_legacy:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-04-21 20:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-04-21 00:57:21 +0000"
