@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2025-04-21 18:43:27 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/sticks_from_cactus": {
     "criteria": {
       "has_stick": "2025-04-04 15:14:21 +0000"
@@ -158,6 +164,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-09 22:55:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-04-21 18:43:19 +0000"
     },
     "done": true
   },
@@ -493,6 +505,12 @@
   "dungeontactics:dungeoneering/root": {
     "criteria": {
       "kill": "2025-04-04 15:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2025-04-21 18:43:27 +0000"
     },
     "done": true
   },
@@ -863,6 +881,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-04-21 00:57:21 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/flour": {
+    "criteria": {
+      "has_wheat": "2025-04-21 18:43:19 +0000"
     },
     "done": true
   },
@@ -1501,6 +1525,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-02 19:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-21 18:43:29 +0000"
     },
     "done": true
   },

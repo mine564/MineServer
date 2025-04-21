@@ -206,3 +206,5 @@
 [18:31:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [18:31:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:46603] logged in with entity id 901 at (-139.80520199669868, 65.0, 305.46831505535476)
 [18:31:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[18:39:47] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityFishHook from class com.teammetallurgy.aquaculture.handlers.EntityCustomFishHook
+[18:43:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [A Seedy Place]
