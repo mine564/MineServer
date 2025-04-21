@@ -391,6 +391,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/building_blocks/skyroot_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-21 21:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-04-09 22:47:40 +0000"
@@ -1046,6 +1052,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/skyroot_stick": {
+    "criteria": {
+      "has_planks": "2025-04-21 21:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2025-04-09 21:52:49 +0000"
@@ -1568,6 +1580,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_planks": "2025-04-21 21:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-04-04 15:08:32 +0000"
@@ -1703,6 +1721,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/decorations/skyroot_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-21 21:27:49 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/weapons/wooden_weapons": {
     "criteria": {
       "has_item": "2025-04-04 15:05:01 +0000"
@@ -1772,6 +1796,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-04-09 21:22:57 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/building_blocks/skyroot_slab": {
+    "criteria": {
+      "has_planks": "2025-04-21 21:27:49 +0000"
     },
     "done": true
   },
@@ -1954,6 +1984,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/decorations/skyroot_fence": {
+    "criteria": {
+      "has_planks": "2025-04-21 21:27:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-04-04 21:24:46 +0000"
@@ -2065,6 +2101,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_log": "2025-04-21 21:26:12 +0000"
     },
     "done": true
   },
