@@ -366,3 +366,12 @@
 [21:55:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:60575] logged in with entity id 1654961 at (-187.4481973970267, 51.0, 432.97246465820314)
 [21:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
 [21:57:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [To infinity and beyond!]
+[21:59:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
+[21:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Do you believe in magic?]
+[22:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
+[22:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [To infinity and beyond!]
+[22:07:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Disconnected
+[22:07:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
+[22:07:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: angelo lost connection: Disconnected
+[22:07:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo left the game
+[22:07:58] [Server thread/INFO] [FML]: Unloading dimension 4

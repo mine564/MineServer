@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "aether_legacy:craft_altar": {
+    "criteria": {
+      "enter_aether": "2025-04-21 21:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-02 19:39:02 +0000"
