@@ -1522,6 +1522,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-04-04 15:13:49 +0000",
+      "beaches": "2025-04-21 19:41:12 +0000",
       "extreme_hills_with_trees": "2025-04-04 15:18:26 +0000",
       "forest_hills": "2025-04-02 19:40:10 +0000",
       "plains": "2025-04-02 19:35:25 +0000",
