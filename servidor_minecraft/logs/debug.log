@@ -19390,3 +19390,25 @@ Treasure2!: Requires version 2.3.2 but mod is not found on client.
 [00:00:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:01:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:01:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:02:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:05:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:06:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:06:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 tried to swim in lava
+[00:06:33] [Server thread/DEBUG] [twilightforest]: Player CouthCamera2242 respawned and received items held in storage
+[00:07:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:07:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:08:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:09:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was shot by Skeleton
+[00:09:49] [Server thread/DEBUG] [twilightforest]: Player CouthCamera2242 respawned and received items held in storage
+[00:10:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:10:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was shot by Skeleton
+[00:10:11] [Server thread/DEBUG] [twilightforest]: Player CouthCamera2242 respawned and received items held in storage
+[00:10:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:10:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was shot by Skeleton
+[00:10:52] [Server thread/DEBUG] [twilightforest]: Player CouthCamera2242 respawned and received items held in storage
+[00:11:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:12:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
