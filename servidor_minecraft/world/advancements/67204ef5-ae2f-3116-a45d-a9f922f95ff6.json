@@ -1511,6 +1511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-21 18:57:09 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-04-04 23:05:28 +0000"
