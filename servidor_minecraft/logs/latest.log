@@ -354,3 +354,15 @@
 [21:47:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [21:47:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:51855] logged in with entity id 1548839 at (-84.26551575321436, 37.0, 346.9531064509946)
 [21:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[21:52:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Disconnected
+[21:52:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
+[21:53:37] [Server thread/INFO] [FML]: Unloading dimension 4
+[21:53:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
+[21:55:49] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[21:55:49] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
+[21:55:49] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[21:55:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:55:51] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
+[21:55:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:60575] logged in with entity id 1654961 at (-187.4481973970267, 51.0, 432.97246465820314)
+[21:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
+[21:57:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [To infinity and beyond!]

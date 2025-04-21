@@ -289,6 +289,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_amber": "2025-04-21 21:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-04-04 15:08:32 +0000"
@@ -1910,6 +1916,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-04-09 21:15:56 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/combat/poison_dart": {
+    "criteria": {
+      "has_dart": "2025-04-21 21:50:41 +0000"
     },
     "done": true
   },

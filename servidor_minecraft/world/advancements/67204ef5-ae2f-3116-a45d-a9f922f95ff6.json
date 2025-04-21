@@ -1277,6 +1277,12 @@
     },
     "done": true
   },
+  "aether_legacy:to_infinity_and_beyond": {
+    "criteria": {
+      "enter_aether": "2025-04-21 21:57:34 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/thiefs_lock_pick": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
