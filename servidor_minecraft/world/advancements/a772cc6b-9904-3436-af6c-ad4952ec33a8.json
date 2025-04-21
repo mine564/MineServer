@@ -66,6 +66,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-21 19:51:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-04-21 19:09:27 +0000"
@@ -247,6 +253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-04-21 19:53:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-21 00:57:14 +0000"
@@ -277,6 +289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-21 19:49:15 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/wooden_table": {
     "criteria": {
       "has_wood": "2025-04-21 00:57:14 +0000"
@@ -298,6 +316,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-21 19:09:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-21 19:49:15 +0000"
     },
     "done": true
   },
@@ -592,6 +616,24 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/mortar\u0026pestle": {
+    "criteria": {
+      "has_flint": "2025-04-21 19:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie_villager": "2025-04-21 19:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_cow": "2025-04-21 19:52:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-21 00:58:24 +0000"
@@ -601,6 +643,12 @@
   "dungeontactics:recipes/armour/iron_plate_armour": {
     "criteria": {
       "has_item": "2025-04-21 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-04-21 19:51:53 +0000"
     },
     "done": true
   },
@@ -687,6 +735,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-04-21 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-04-21 19:49:15 +0000"
     },
     "done": true
   },
@@ -777,6 +831,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-21 19:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-04-21 19:51:31 +0000"
     },
     "done": true
   },
@@ -873,6 +933,18 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-21 19:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_villager": "2025-04-21 19:49:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_cow": "2025-04-21 19:52:42 +0000"
     },
     "done": true
   },
