@@ -19104,3 +19104,40 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [20:15:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:16:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:17:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:17:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 'ndifficulty' is not a valid number
+[20:18:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:18:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Peaceful
+[20:18:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Normal
+[20:19:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:20:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:21:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Skeleton Knight
+[20:21:20] [Server thread/DEBUG] [twilightforest]: Player CouthCamera2242 respawned and received items held in storage
+[20:21:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [Phat Loots]
+[20:21:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:22:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
+[20:22:43] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[20:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
+[20:22:52] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[20:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
+[20:23:01] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[20:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
+[20:23:10] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[20:23:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
+[20:23:16] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[20:23:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
+[20:23:27] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[20:24:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:24:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
+[20:24:26] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[20:24:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
+[20:24:47] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[20:24:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:25:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
+[20:25:51] [Server thread/DEBUG] [twilightforest]: Player ToonKris respawned and received items held in storage
+[20:26:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:27:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

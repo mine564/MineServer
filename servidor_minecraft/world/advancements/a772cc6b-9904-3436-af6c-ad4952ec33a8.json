@@ -253,6 +253,12 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/tools/boomglove": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 20:17:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-04-21 00:58:24 +0000"
@@ -267,6 +273,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-21 20:25:29 +0000",
+      "baked_potato": "2025-04-21 20:25:21 +0000",
       "mutton": "2025-04-21 19:27:28 +0000",
       "cooked_chicken": "2025-04-21 19:13:28 +0000"
     },
@@ -383,6 +391,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-21 00:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 20:17:59 +0000"
     },
     "done": true
   },
@@ -542,6 +556,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-21 19:08:55 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/weapons/bombs": {
+    "criteria": {
+      "has_item": "2025-04-21 20:17:59 +0000"
     },
     "done": true
   },
@@ -1011,6 +1031,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest_hills": "2025-04-21 20:25:32 +0000",
       "plains": "2025-04-21 00:57:14 +0000"
     },
     "done": false
@@ -1111,6 +1132,12 @@
     },
     "done": true
   },
+  "dungeontactics:dungeoneering/get_lootbag": {
+    "criteria": {
+      "ore": "2025-04-21 20:21:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_cow": "2025-04-21 19:52:42 +0000"
@@ -1162,6 +1189,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-04-21 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/powderkeg": {
+    "criteria": {
+      "has_gunpowder": "2025-04-21 20:17:59 +0000"
     },
     "done": true
   },
