@@ -337,6 +337,18 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/decorations/freezer": {
+    "criteria": {
+      "has_stone": "2025-04-21 21:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-21 21:13:55 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/wooden_table": {
     "criteria": {
       "has_wood": "2025-04-04 15:05:01 +0000"
@@ -521,6 +533,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/building_blocks/holystone_wall": {
+    "criteria": {
+      "has_holystone": "2025-04-21 21:11:20 +0000"
     },
     "done": true
   },
@@ -728,6 +746,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/tools/holystone_pickaxe": {
+    "criteria": {
+      "has_holystone": "2025-04-21 21:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-04-04 15:08:32 +0000"
@@ -872,6 +896,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/holystone_sword": {
+    "criteria": {
+      "has_stone": "2025-04-21 21:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-04 20:51:27 +0000"
@@ -1007,6 +1037,12 @@
   "dungeontactics:recipes/armour/silver_plate_armour": {
     "criteria": {
       "has_item": "2025-04-09 21:21:45 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/tools/holystone_shovel": {
+    "criteria": {
+      "has_holystone": "2025-04-21 21:11:20 +0000"
     },
     "done": true
   },
@@ -1190,6 +1226,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/building_blocks/holystone_stairs": {
+    "criteria": {
+      "has_holystone": "2025-04-21 21:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-04-08 16:22:07 +0000"
@@ -1325,6 +1367,12 @@
   "treasure2:recipes/gold_skull_chest": {
     "criteria": {
       "has_skull": "2025-04-04 21:23:32 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/decorations/enchanter": {
+    "criteria": {
+      "has_stone": "2025-04-21 21:11:20 +0000"
     },
     "done": true
   },
@@ -1616,6 +1664,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/tools/holystone_axe": {
+    "criteria": {
+      "has_holystone": "2025-04-21 21:11:20 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:dungeoneering/born_survivor": {
     "criteria": {
       "stab": "2025-04-04 15:01:35 +0000",
@@ -1676,6 +1730,12 @@
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-04-09 20:34:19 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/building_blocks/holystone_brick": {
+    "criteria": {
+      "has_stone": "2025-04-21 21:11:20 +0000"
     },
     "done": true
   },
@@ -2038,6 +2098,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/building_blocks/holystone_slab": {
+    "criteria": {
+      "has_holystone": "2025-04-21 21:11:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-04-04 15:05:01 +0000"
@@ -2053,6 +2119,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-09 23:06:40 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/decorations/incubator": {
+    "criteria": {
+      "has_stone": "2025-04-21 21:11:20 +0000"
     },
     "done": true
   },
