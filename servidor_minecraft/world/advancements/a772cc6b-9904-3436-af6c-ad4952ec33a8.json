@@ -78,6 +78,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-21 19:33:17 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/sticks_from_cactus": {
     "criteria": {
       "has_stick": "2025-04-21 00:57:14 +0000"
@@ -111,6 +117,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-04-21 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-21 19:33:17 +0000"
     },
     "done": true
   },
@@ -210,6 +222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-04-21 19:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-04-21 19:09:27 +0000"
@@ -268,6 +286,12 @@
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-04-21 00:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2025-04-21 19:26:17 +0000"
     },
     "done": true
   },
@@ -350,6 +374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-21 19:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-04-21 00:58:24 +0000"
@@ -358,6 +388,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2025-04-21 19:27:28 +0000",
       "cooked_chicken": "2025-04-21 19:13:28 +0000"
     },
     "done": false
@@ -398,9 +429,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-04-21 19:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-21 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-21 19:23:22 +0000"
     },
     "done": true
   },
@@ -434,9 +477,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-04-21 19:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-04-21 00:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-21 19:23:02 +0000"
     },
     "done": true
   },
@@ -635,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-21 19:35:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stonebrick": "2025-04-21 00:57:14 +0000"
@@ -644,6 +705,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-04-21 19:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2025-04-21 19:26:17 +0000"
     },
     "done": true
   },
@@ -677,6 +744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2025-04-21 19:26:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-04-21 00:57:14 +0000"
@@ -692,6 +765,24 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-04-21 19:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2025-04-21 19:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2025-04-21 19:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-21 19:26:40 +0000"
     },
     "done": true
   },
@@ -731,6 +822,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2025-04-21 19:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-04-21 19:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-04-21 19:09:27 +0000"
@@ -746,6 +849,12 @@
   "aether_legacy:recipes/tools/iron_pendant": {
     "criteria": {
       "has_iron": "2025-04-21 00:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-21 19:22:27 +0000"
     },
     "done": true
   },
@@ -767,15 +876,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-21 19:33:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-04-21 00:57:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-21 19:22:27 +0000"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/flour": {
     "criteria": {
       "has_wheat": "2025-04-21 00:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-21 19:22:27 +0000"
     },
     "done": true
   },

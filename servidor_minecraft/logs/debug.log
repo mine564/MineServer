@@ -18966,3 +18966,41 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [19:16:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Zombie
 [19:16:56] [Server thread/DEBUG] [twilightforest]: Player CouthCamera2242 respawned and received items held in storage
+[19:17:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was slain by Zombie
+[19:17:10] [Server thread/DEBUG] [twilightforest]: Player angelo respawned and received items held in storage
+[19:17:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:18:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:18:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:19:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Mother Spider
+[19:19:29] [Server thread/DEBUG] [twilightforest]: Player CouthCamera2242 respawned and received items held in storage
+[19:19:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:20:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:21:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:21:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:22:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:23:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:24:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:24:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:25:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:25:52] [Server thread/INFO] [mca]: Villager death: Leanna. Caused by: Zombie. UUID: ce871df0-14e5-4162-af93-e5485795320b
+[19:26:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:26:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [Take Aim]
+[19:27:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:27:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:28:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:29:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:30:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:30:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:31:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 burned to death
+[19:31:41] [Server thread/DEBUG] [twilightforest]: Player CouthCamera2242 respawned and received items held in storage
+[19:32:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was slain by Zombie
+[19:32:14] [Server thread/DEBUG] [twilightforest]: Player angelo respawned and received items held in storage
+[19:32:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:33:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:33:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:34:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:35:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:35:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [Hot Stuff]
+[19:36:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:36:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
