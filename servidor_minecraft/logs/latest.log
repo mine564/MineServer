@@ -208,3 +208,4 @@
 [18:31:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
 [18:39:47] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityFishHook from class com.teammetallurgy.aquaculture.handlers.EntityCustomFishHook
 [18:43:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [A Seedy Place]
+[18:53:59] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce

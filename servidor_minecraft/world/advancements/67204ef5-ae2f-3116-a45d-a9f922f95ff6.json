@@ -400,6 +400,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-02 19:44:31 +0000",
       "cooked_beef": "2025-04-02 19:50:29 +0000",
+      "bread": "2025-04-21 18:47:13 +0000",
       "rotten_flesh": "2025-04-09 21:41:33 +0000",
       "cooked_rabbit": "2025-04-09 21:50:21 +0000",
       "carrot": "2025-04-12 20:23:36 +0000"
@@ -603,6 +604,12 @@
       "iron_boots": "2025-04-09 20:24:57 +0000",
       "iron_chestplate": "2025-04-09 20:24:57 +0000",
       "iron_leggings": "2025-04-09 20:24:57 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/misc/radio": {
+    "criteria": {
+      "has_13": "2025-04-21 18:54:21 +0000"
     },
     "done": true
   },
@@ -1067,6 +1074,12 @@
   "treasure2:recipes/pilferers_lock_pick": {
     "criteria": {
       "has_iron_ingot": "2025-04-09 20:15:33 +0000"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/tools/ducttape": {
+    "criteria": {
+      "has_anvil": "2025-04-21 18:50:42 +0000"
     },
     "done": true
   },
