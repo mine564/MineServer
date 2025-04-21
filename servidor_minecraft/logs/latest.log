@@ -239,3 +239,17 @@
 [19:51:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [A Seedy Place]
 [19:52:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [The Parrots and the Bats]
 [19:54:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 hit the ground too hard
+[19:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Zombie
+[19:59:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Zombie Brute
+[20:01:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: angelo lost connection: Timed out
+[20:01:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo left the game
+[20:01:06] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player angelo
+[20:03:52] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[20:03:52] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
+[20:03:52] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[20:03:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:03:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:45957] logged in with entity id 136651 at (-344.55816518465696, 21.109999999403954, 105.08332127242339)
+[20:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
+[20:03:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 'pacific' is not a valid number
+[20:05:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Peaceful
+[20:06:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> sori
