@@ -18929,3 +18929,40 @@ Caused by: java.io.FileNotFoundException: http://maxhenkel.de/update/gravestone.
 [19:05:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:06:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:06:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:07:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:07:52] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:07:52] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:07:52] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:07:52] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:07:52] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:07:52] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:26 mods->FMLHandshakeServerState$2:HELLO
+[19:07:52] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2859,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
+[19:07:52] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[19:07:52] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[19:07:52] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:07:52] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[19:07:53] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:07:53] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[19:07:53] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:07:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:07:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CouthCamera2242[/127.39.205.109:48033] logged in with entity id 42956 at (-139.72170374691777, 65.0, 304.96284837034614)
+[19:07:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 joined the game
+[19:07:53] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> genteeeee
+[19:08:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> cuentaaaaa
+[19:08:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> discooooord
+[19:08:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:08:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> ??
+[19:09:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:09:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:10:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:11:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:12:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:12:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:13:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:14:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:15:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:15:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:16:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Zombie
+[19:16:56] [Server thread/DEBUG] [twilightforest]: Player CouthCamera2242 respawned and received items held in storage

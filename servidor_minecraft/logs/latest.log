@@ -209,3 +209,14 @@
 [18:39:47] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityFishHook from class com.teammetallurgy.aquaculture.handlers.EntityCustomFishHook
 [18:43:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [A Seedy Place]
 [18:53:59] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce
+[19:07:52] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:07:52] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2859,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
+[19:07:52] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[19:07:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:07:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CouthCamera2242[/127.39.205.109:48033] logged in with entity id 42956 at (-139.72170374691777, 65.0, 304.96284837034614)
+[19:07:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 joined the game
+[19:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> genteeeee
+[19:08:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> cuentaaaaa
+[19:08:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> discooooord
+[19:08:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> ??
+[19:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Zombie
