@@ -17,12 +17,12 @@
 -480 70 -49 -469 81 -40 ArrowTrapTomb.tml
 -412 64 860 -397 72 869 Archway.tml
 -408 65 124 -395 74 137 VolcanicVent.tml
--402 66 305 -395 69 310 PumpkinField.tml
--402 91 671 -398 93 675 EmeraldOreOutcrop.tml
--402 65 17 -395 74 24 Outcrop.tml
 -402 79 219 -397 84 226 ZombieHut.tml
--399 66 -88 -395 72 -85 StonePillar.tml
+-402 65 17 -395 74 24 Outcrop.tml
+-402 91 671 -398 93 675 EmeraldOreOutcrop.tml
+-402 66 305 -395 69 310 PumpkinField.tml
 -399 105 657 -396 109 660 StoneGrill.tml
+-399 66 -88 -395 72 -85 StonePillar.tml
 -343 67 402 -330 76 415 VolcanicVent.tml
 -341 63 556 -336 66 563 Melonfield.tml
 -301 77 650 -290 85 658 MinersHut.tml
@@ -35,8 +35,8 @@
 -178 68 778 -173 74 783 CaveSpiderBurrow.tml
 -157 83 695 -150 92 702 Outcrop.tml
 -115 67 142 -100 75 157 Mausoleum.tml
--84 73 844 -71 82 857 VolcanicVent.tml
 -84 67 747 -74 76 759 StoneHouseMruined.tml
+-84 73 844 -71 82 857 VolcanicVent.tml
 -80 65 48 -73 68 53 Melonfield.tml
 -3 67 640 1 73 643 StonePillar.tml
 -1 72 711 3 74 715 EmeraldOreOutcrop.tml
