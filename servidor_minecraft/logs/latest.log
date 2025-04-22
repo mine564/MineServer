@@ -1,221 +1,221 @@
-[22:31:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:31:10] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:31:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[22:31:10] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[22:31:10] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1026-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[22:31:11] [main/INFO] [FML]: Searching /workspaces/MineServer/servidor_minecraft/./mods for mods
-[22:31:11] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[22:31:11] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[22:31:11] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from levelup2-1.5.8.jar
-[22:31:11] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
-[22:31:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:31:11] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[22:31:11] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/MineServer/servidor_minecraft/./mods/levelup2-1.5.8.jar Service=LaunchWrapper Env=SERVER
-[22:31:11] [main/WARN] [FML]: The coremod LevelUpCore (levelup2.core.LevelUpCore) is not signed!
-[22:31:11] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[22:31:11] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[22:31:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:31:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:31:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[22:31:11] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[22:31:11] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[22:31:11] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[22:31:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:31:12] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[22:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[22:31:12] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1d3e6d34
-[22:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[22:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[22:31:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:31:12] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[22:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[22:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[22:31:12] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[22:31:13] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[22:31:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[22:31:16] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[22:31:16] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[22:31:16] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[22:31:16] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[22:31:16] [Server thread/INFO] [FML]: Searching /workspaces/MineServer/servidor_minecraft/./mods for mods
-[22:31:17] [Server thread/WARN] [FML]: Mod cosmeticarmorreworked is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-v5a
-[22:31:17] [Server thread/INFO] [FML]: Disabling mod ignitehud it is client side only.
-[22:31:18] [Server thread/INFO] [FML]: Forge Mod Loader has identified 38 mods to load
-[22:31:18] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[22:31:18] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-conarm: assets/armoryexpansion-conarm/lang/en_us.lang
-[22:31:18] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-custommaterials: assets/armoryexpansion-custommaterials/lang/en_us.lang
-[22:31:18] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-iceandfire: assets/armoryexpansion-iceandfire/lang/en_us.lang
-[22:31:18] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-matteroverdrive: assets/armoryexpansion-matteroverdrive/lang/en_us.lang
-[22:31:18] [Server thread/WARN] [FML]: Missing English translation for dldungeonsjbg: assets/dldungeonsjbg/lang/en_us.lang
-[22:31:18] [Server thread/WARN] [FML]: Missing English translation for gottschcore: assets/gottschcore/lang/en_us.lang
-[22:31:18] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
-[22:31:18] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
-[22:31:18] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
-[22:31:18] [Server thread/INFO] [FML]: FML has found a non-mod file IgniteHUD-b0.5.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[22:31:18] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, abyssaldepths, aether_legacy, aquaculture, armoryexpansion, armoryexpansion-conarm, armoryexpansion-custommaterials, armoryexpansion-iceandfire, armoryexpansion-matteroverdrive, atum, backpack, baubles, better_diving, conarm, coralreef, cosmeticarmorreworked, dldungeonsjbg, dungeontactics, gottschcore, gravestone, inventorytweaks, jei, journeymap, levelup2, mantle, mca, roguelike, ruins, signpost, lteleporters, spartanshields, specialmobs, tconstruct, treasure2, twilightforest] at CLIENT
-[22:31:18] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, abyssaldepths, aether_legacy, aquaculture, armoryexpansion, armoryexpansion-conarm, armoryexpansion-custommaterials, armoryexpansion-iceandfire, armoryexpansion-matteroverdrive, atum, backpack, baubles, better_diving, conarm, coralreef, cosmeticarmorreworked, dldungeonsjbg, dungeontactics, gottschcore, gravestone, inventorytweaks, jei, journeymap, levelup2, mantle, mca, roguelike, ruins, signpost, lteleporters, spartanshields, specialmobs, tconstruct, treasure2, twilightforest] at SERVER
-[22:31:19] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[22:31:19] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
-[22:31:19] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
-[22:31:19] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
-[22:31:19] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
-[22:31:19] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
-[22:31:19] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
-[22:31:19] [Server thread/INFO] [tconstruct]: Preparing to take over the world
-[22:31:19] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
-[22:31:20] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[22:31:20] [Server thread/INFO] [FML]: Found 1797 ObjectHolder annotations
-[22:31:20] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[22:31:20] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[22:31:21] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[22:31:21] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
-[22:31:21] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Found status: AHEAD Target: null
-[22:31:21] [Forge Version Check/INFO] [forge.VersionCheck]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/update.json
-[22:31:21] [Forge Version Check/INFO] [forge.VersionCheck]: [treasure2] Found status: BETA Target: null
-[22:31:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[22:31:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[22:31:21] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
-[22:31:21] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
-[22:31:21] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
-[22:31:21] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[22:31:21] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[22:31:21] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[22:31:21] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[22:31:21] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Tinkers' Construct.
-[22:31:21] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[22:31:21] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading config from local JSON file
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading config from source
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all materials from local JSON files
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all materials from source
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all material traits from local JSON files
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all material traits from source
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all ore dictionary entries from local JSON files
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all ore dictionary entries from source
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all alloys from local JSON files
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all alloys from source
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving config to local JSON file
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all materials to local JSON files
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all material traits to local JSON files
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all ore dictionary entries to local JSON files
-[22:31:21] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all alloys to local JSON files
-[22:31:22] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Doomlike Dungeons is in preInit, should now load config.
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Frequency Scaling Factor Set To: 8
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Minimum X Factor Set To: 16
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Difficulty set to: Normal difficulty.
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons in with world generation? true
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons even with structures disabled? false
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Will export item, block, and mob lists? false
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Will announce use of OP/cheat commands? true
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Will dungeons be easy to find? true
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Hub room (entrances and boss rooms) will have high ceiling? false
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: All dungeon will be huge? false
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Will dungeon all have single entrances? true
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Will themes be automatically install if themes folder is empty? true
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Can themes be (re)installed by command? true
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: adding END to excusion list
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Will use API? true
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Will allow API base mob change? true
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Will self-profile? false
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: themesdir will be set to /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes/
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: themesdir File is be set to /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes
-[22:31:22] [Server thread/INFO] [STDOUT]: [jaredbgreat.dldungeons.setup.Externalizer:makeChestCfg:206]: [DLDUNGEONS] Installing files /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/chests.cfg
-[22:31:22] [Server thread/INFO] [DLDUNGEONS]: Config should now be loaded.
-[22:31:22] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
-[22:31:22] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
-[22:31:22] [Server thread/INFO] [mca]: Loaded 1 supporters.
-[22:31:22] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
-[22:31:22] [Server thread/INFO] [specialmobs]: Loading configs...
-[22:31:23] [Server thread/INFO] [specialmobs]: Loaded configs in 810.0584 ms
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from local JSON file
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from source
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from local JSON files
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from source
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from local JSON files
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from source
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from local JSON files
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from source
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from local JSON files
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from source
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done saving config to local JSON file
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all materials to local JSON files
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all material traits to local JSON files
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all ore dictionary entries to local JSON files
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all alloys to local JSON files
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {knightmetal};
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {fierymetal};
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {nagascale};
-[22:31:23] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {steeleaf};
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lteleporter`, expected `lteleporters`. This could be a intended override, but in most cases indicates a broken mod.
-[22:31:24] [Server thread/INFO] [FML]: Applying holder lookups
-[22:31:24] [Server thread/INFO] [FML]: Holder lookups applied
-[22:31:25] [Server thread/INFO] [Backpack]: Loading items...
-[22:31:25] [Server thread/INFO] [Backpack]: 15 item features loaded.
-[22:31:25] [Server thread/INFO] [Spartan Shields]: Items Registered!
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from local JSON file
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from source
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from local JSON files
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from source
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from local JSON files
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from source
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from local JSON files
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from source
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from local JSON files
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from source
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done saving config to local JSON file
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all materials to local JSON files
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all material traits to local JSON files
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all ore dictionary entries to local JSON files
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all alloys to local JSON files
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {knightmetal};
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {fierymetal};
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {nagascale};
-[22:31:25] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {steeleaf};
-[22:31:25] [Server thread/INFO] [FML]: Applying holder lookups
-[22:31:25] [Server thread/INFO] [FML]: Holder lookups applied
-[22:31:25] [Server thread/INFO] [FML]: Applying holder lookups
-[22:31:25] [Server thread/INFO] [FML]: Holder lookups applied
-[22:31:25] [Server thread/INFO] [FML]: Applying holder lookups
-[22:31:25] [Server thread/INFO] [FML]: Holder lookups applied
-[22:31:25] [Server thread/INFO] [FML]: Injecting itemstacks
-[22:31:25] [Server thread/INFO] [FML]: Itemstack injection complete
-[22:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[22:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[22:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[22:31:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[22:31:26] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[22:31:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** FAILED TO BIND TO PORT!
-[22:31:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
-[22:31:26] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: Perhaps a server is already running on that port?
-[22:31:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:31:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[22:31:26] [Server thread/INFO] [FML]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
-[22:31:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[22:31:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:32:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:32:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:32:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:32:14] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[22:32:14] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1026-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[22:32:14] [main/INFO] [FML]: Searching /workspaces/MineServer/servidor_minecraft/./mods for mods
+[22:32:14] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:32:14] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:32:14] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from levelup2-1.5.8.jar
+[22:32:14] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[22:32:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:32:14] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[22:32:14] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/MineServer/servidor_minecraft/./mods/levelup2-1.5.8.jar Service=LaunchWrapper Env=SERVER
+[22:32:14] [main/WARN] [FML]: The coremod LevelUpCore (levelup2.core.LevelUpCore) is not signed!
+[22:32:14] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[22:32:14] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[22:32:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:32:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:32:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:32:14] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[22:32:14] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[22:32:14] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[22:32:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:32:16] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:32:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:32:16] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[22:32:16] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1d3e6d34
+[22:32:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:32:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:32:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:32:16] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:32:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:32:16] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:32:16] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[22:32:16] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:32:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:32:19] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[22:32:19] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:32:19] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:32:19] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:32:19] [Server thread/INFO] [FML]: Searching /workspaces/MineServer/servidor_minecraft/./mods for mods
+[22:32:20] [Server thread/WARN] [FML]: Mod cosmeticarmorreworked is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-v5a
+[22:32:20] [Server thread/INFO] [FML]: Disabling mod ignitehud it is client side only.
+[22:32:21] [Server thread/INFO] [FML]: Forge Mod Loader has identified 38 mods to load
+[22:32:21] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:32:21] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-conarm: assets/armoryexpansion-conarm/lang/en_us.lang
+[22:32:21] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-custommaterials: assets/armoryexpansion-custommaterials/lang/en_us.lang
+[22:32:21] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-iceandfire: assets/armoryexpansion-iceandfire/lang/en_us.lang
+[22:32:21] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-matteroverdrive: assets/armoryexpansion-matteroverdrive/lang/en_us.lang
+[22:32:21] [Server thread/WARN] [FML]: Missing English translation for dldungeonsjbg: assets/dldungeonsjbg/lang/en_us.lang
+[22:32:21] [Server thread/WARN] [FML]: Missing English translation for gottschcore: assets/gottschcore/lang/en_us.lang
+[22:32:21] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[22:32:21] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
+[22:32:21] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[22:32:21] [Server thread/INFO] [FML]: FML has found a non-mod file IgniteHUD-b0.5.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:32:21] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, abyssaldepths, aether_legacy, aquaculture, armoryexpansion, armoryexpansion-conarm, armoryexpansion-custommaterials, armoryexpansion-iceandfire, armoryexpansion-matteroverdrive, atum, backpack, baubles, better_diving, conarm, coralreef, cosmeticarmorreworked, dldungeonsjbg, dungeontactics, gottschcore, gravestone, inventorytweaks, jei, journeymap, levelup2, mantle, mca, roguelike, ruins, signpost, lteleporters, spartanshields, specialmobs, tconstruct, treasure2, twilightforest] at CLIENT
+[22:32:21] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, abyssaldepths, aether_legacy, aquaculture, armoryexpansion, armoryexpansion-conarm, armoryexpansion-custommaterials, armoryexpansion-iceandfire, armoryexpansion-matteroverdrive, atum, backpack, baubles, better_diving, conarm, coralreef, cosmeticarmorreworked, dldungeonsjbg, dungeontactics, gottschcore, gravestone, inventorytweaks, jei, journeymap, levelup2, mantle, mca, roguelike, ruins, signpost, lteleporters, spartanshields, specialmobs, tconstruct, treasure2, twilightforest] at SERVER
+[22:32:22] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[22:32:22] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[22:32:22] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[22:32:22] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[22:32:22] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
+[22:32:22] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[22:32:22] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
+[22:32:22] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[22:32:22] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
+[22:32:23] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:32:23] [Server thread/INFO] [FML]: Found 1797 ObjectHolder annotations
+[22:32:23] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:32:23] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:32:23] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:32:23] [Forge Version Check/INFO] [forge.VersionCheck]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/update.json
+[22:32:23] [Forge Version Check/INFO] [forge.VersionCheck]: [treasure2] Found status: BETA Target: null
+[22:32:23] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[22:32:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:32:24] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[22:32:24] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[22:32:24] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
+[22:32:24] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[22:32:24] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[22:32:24] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[22:32:24] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[22:32:24] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Tinkers' Construct.
+[22:32:24] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
+[22:32:24] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[22:32:24] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Found status: AHEAD Target: null
+[22:32:24] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading config from local JSON file
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading config from source
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all materials from local JSON files
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all materials from source
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all material traits from local JSON files
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all material traits from source
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all ore dictionary entries from local JSON files
+[22:32:24] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all ore dictionary entries from source
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all alloys from local JSON files
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all alloys from source
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving config to local JSON file
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all materials to local JSON files
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all material traits to local JSON files
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all ore dictionary entries to local JSON files
+[22:32:24] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all alloys to local JSON files
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Doomlike Dungeons is in preInit, should now load config.
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Frequency Scaling Factor Set To: 8
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Minimum X Factor Set To: 16
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Difficulty set to: Normal difficulty.
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons in with world generation? true
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons even with structures disabled? false
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Will export item, block, and mob lists? false
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Will announce use of OP/cheat commands? true
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Will dungeons be easy to find? true
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Hub room (entrances and boss rooms) will have high ceiling? false
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: All dungeon will be huge? false
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Will dungeon all have single entrances? true
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Will themes be automatically install if themes folder is empty? true
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Can themes be (re)installed by command? true
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: adding END to excusion list
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Will use API? true
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Will allow API base mob change? true
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Will self-profile? false
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: themesdir will be set to /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes/
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: themesdir File is be set to /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes
+[22:32:24] [Server thread/INFO] [STDOUT]: [jaredbgreat.dldungeons.setup.Externalizer:makeChestCfg:206]: [DLDUNGEONS] Installing files /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/chests.cfg
+[22:32:24] [Server thread/INFO] [DLDUNGEONS]: Config should now be loaded.
+[22:32:25] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
+[22:32:25] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
+[22:32:25] [Server thread/INFO] [mca]: Loaded 1 supporters.
+[22:32:25] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[22:32:25] [Server thread/INFO] [specialmobs]: Loading configs...
+[22:32:26] [Server thread/INFO] [specialmobs]: Loaded configs in 708.643368 ms
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from local JSON file
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from source
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from local JSON files
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from source
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from local JSON files
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from source
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from local JSON files
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from source
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from local JSON files
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from source
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done saving config to local JSON file
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all materials to local JSON files
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all material traits to local JSON files
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all ore dictionary entries to local JSON files
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all alloys to local JSON files
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {knightmetal};
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {fierymetal};
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {nagascale};
+[22:32:26] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {steeleaf};
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lteleporter`, expected `lteleporters`. This could be a intended override, but in most cases indicates a broken mod.
+[22:32:26] [Server thread/INFO] [FML]: Applying holder lookups
+[22:32:26] [Server thread/INFO] [FML]: Holder lookups applied
+[22:32:27] [Server thread/INFO] [Backpack]: Loading items...
+[22:32:27] [Server thread/INFO] [Backpack]: 15 item features loaded.
+[22:32:27] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from local JSON file
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from source
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from local JSON files
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from source
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from local JSON files
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from source
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from local JSON files
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from source
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from local JSON files
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from source
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done saving config to local JSON file
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all materials to local JSON files
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all material traits to local JSON files
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all ore dictionary entries to local JSON files
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all alloys to local JSON files
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {knightmetal};
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {fierymetal};
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {nagascale};
+[22:32:27] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {steeleaf};
+[22:32:27] [Server thread/INFO] [FML]: Applying holder lookups
+[22:32:27] [Server thread/INFO] [FML]: Holder lookups applied
+[22:32:28] [Server thread/INFO] [FML]: Applying holder lookups
+[22:32:28] [Server thread/INFO] [FML]: Holder lookups applied
+[22:32:28] [Server thread/INFO] [FML]: Applying holder lookups
+[22:32:28] [Server thread/INFO] [FML]: Holder lookups applied
+[22:32:28] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:32:28] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:32:28] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[22:32:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** FAILED TO BIND TO PORT!
+[22:32:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[22:32:28] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: Perhaps a server is already running on that port?
+[22:32:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:32:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:32:28] [Server thread/INFO] [FML]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
+[22:32:28] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:32:28] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
