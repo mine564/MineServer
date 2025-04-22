@@ -1,377 +1,221 @@
-[18:26:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:26:45] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:26:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:26:45] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[18:26:45] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1026-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[18:26:45] [main/INFO] [FML]: Searching /workspaces/MineServer/servidor_minecraft/./mods for mods
-[18:26:45] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from levelup2-1.5.8.jar
-[18:26:45] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
-[18:26:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:26:45] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[18:26:45] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/MineServer/servidor_minecraft/./mods/levelup2-1.5.8.jar Service=LaunchWrapper Env=SERVER
-[18:26:45] [main/WARN] [FML]: The coremod LevelUpCore (levelup2.core.LevelUpCore) is not signed!
-[18:26:45] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[18:26:45] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[18:26:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:26:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:26:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:26:45] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[18:26:45] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[18:26:45] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[18:26:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:26:47] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[18:26:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:26:47] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[18:26:47] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@4e2c95ee
-[18:26:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:26:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:26:47] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[18:26:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:26:47] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[18:26:47] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[18:26:48] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[18:26:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[18:26:51] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[18:26:52] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[18:26:52] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[18:26:52] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[18:26:52] [Server thread/INFO] [FML]: Searching /workspaces/MineServer/servidor_minecraft/./mods for mods
-[18:26:52] [Server thread/WARN] [FML]: Mod cosmeticarmorreworked is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-v5a
-[18:26:52] [Server thread/INFO] [FML]: Disabling mod ignitehud it is client side only.
-[18:26:53] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
-[18:26:53] [Server thread/INFO] [FML]: Forge Mod Loader has identified 25 mods to load
-[18:26:53] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[18:26:53] [Server thread/WARN] [FML]: Missing English translation for dldungeonsjbg: assets/dldungeonsjbg/lang/en_us.lang
-[18:26:53] [Server thread/WARN] [FML]: Missing English translation for gottschcore: assets/gottschcore/lang/en_us.lang
-[18:26:53] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
-[18:26:53] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
-[18:26:53] [Server thread/INFO] [FML]: FML has found a non-mod file IgniteHUD-b0.5.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[18:26:53] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, aquaculture, atum, baubles, cosmeticarmorreworked, dldungeonsjbg, dungeontactics, gottschcore, gravestone, jei, journeymap, levelup2, mca, mobends, roguelike, ruins, signpost, spartanshields, specialmobs, treasure2, twilightforest] at CLIENT
-[18:26:53] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, aether_legacy, aquaculture, atum, baubles, cosmeticarmorreworked, dldungeonsjbg, dungeontactics, gottschcore, gravestone, jei, journeymap, levelup2, mca, mobends, roguelike, ruins, signpost, spartanshields, specialmobs, treasure2, twilightforest] at SERVER
-[18:26:55] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[18:26:55] [Server thread/INFO] [FML]: Found 1713 ObjectHolder annotations
-[18:26:55] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[18:26:55] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[18:26:55] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[18:26:55] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
-[18:26:56] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
-[18:26:56] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
-[18:26:56] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Doomlike Dungeons is in preInit, should now load config.
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Frequency Scaling Factor Set To: 8
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Minimum X Factor Set To: 16
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Difficulty set to: Normal difficulty.
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons in with world generation? true
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons even with structures disabled? false
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Will export item, block, and mob lists? false
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Will announce use of OP/cheat commands? true
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Will dungeons be easy to find? true
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Hub room (entrances and boss rooms) will have high ceiling? false
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: All dungeon will be huge? false
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Will dungeon all have single entrances? true
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Will themes be automatically install if themes folder is empty? true
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Can themes be (re)installed by command? true
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: adding END to excusion list
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Will use API? true
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Will allow API base mob change? true
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Will self-profile? false
-[18:26:56] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: themesdir will be set to /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes/
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: themesdir File is be set to /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes
-[18:26:56] [Server thread/INFO] [STDOUT]: [jaredbgreat.dldungeons.setup.Externalizer:makeChestCfg:206]: [DLDUNGEONS] Installing files /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/chests.cfg
-[18:26:56] [Server thread/INFO] [DLDUNGEONS]: Config should now be loaded.
-[18:26:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[18:26:57] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
-[18:26:57] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Found status: AHEAD Target: null
-[18:26:57] [Forge Version Check/INFO] [forge.VersionCheck]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/update.json
-[18:26:57] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
-[18:26:57] [Forge Version Check/INFO] [forge.VersionCheck]: [treasure2] Found status: BETA Target: null
-[18:26:57] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
-[18:26:57] [Server thread/INFO] [mca]: Loaded 1 supporters.
-[18:26:57] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
-[18:26:57] [Server thread/INFO] [specialmobs]: Loading configs...
-[18:26:57] [Server thread/INFO] [specialmobs]: Loaded configs in 213.88679 ms
-[18:26:58] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
-[18:26:58] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
-[18:26:58] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
-[18:26:58] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
-[18:26:58] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
-[18:26:58] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
-[18:26:58] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
-[18:26:58] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
-[18:26:58] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[18:26:58] [Server thread/INFO] [FML]: Applying holder lookups
-[18:26:58] [Server thread/INFO] [FML]: Holder lookups applied
-[18:26:59] [Server thread/INFO] [Spartan Shields]: Items Registered!
-[18:27:00] [Server thread/INFO] [FML]: Applying holder lookups
-[18:27:00] [Server thread/INFO] [FML]: Holder lookups applied
-[18:27:00] [Server thread/INFO] [FML]: Applying holder lookups
-[18:27:00] [Server thread/INFO] [FML]: Holder lookups applied
-[18:27:00] [Server thread/INFO] [FML]: Applying holder lookups
-[18:27:00] [Server thread/INFO] [FML]: Holder lookups applied
-[18:27:00] [Server thread/INFO] [FML]: Injecting itemstacks
-[18:27:00] [Server thread/INFO] [FML]: Itemstack injection complete
-[18:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[18:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[18:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[18:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[18:27:00] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[18:27:00] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:27:00] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[18:27:00] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:27:00] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stick`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `torch`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ladder`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `chest`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `trapdoor`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `orange_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `magenta_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_blue_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `yellow_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lime_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pink_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gray_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `light_gray_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cyan_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `purple_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `blue_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `brown_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `green_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `red_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `black_wool`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stone_sword`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stone_shovel`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stone_pickaxe`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stone_hoe`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `stone_axe`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `furnace`, expected `atum`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/INFO] [Spartan Shields]: Recipes added!
-[18:27:01] [Server thread/INFO] [DungeonTactics]: Overriding recipes with dummy recipes, please ignore the following "Dangerous alternative prefix" warnings.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `dungeontactics`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/INFO] [DungeonTactics]: Overriding recipes with dummy recipes, please ignore the following "Dangerous alternative prefix" warnings.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `dungeontactics`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/INFO] [DungeonTactics]: Overriding recipes with dummy recipes, please ignore the following "Dangerous alternative prefix" warnings.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `flint_and_steel`, expected `dungeontactics`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/INFO] [FML]: Applying holder lookups
-[18:27:01] [Server thread/INFO] [FML]: Holder lookups applied
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `signpostbasetile`, expected `signpost`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `signpostposttile`, expected `signpost`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `signpostbigposttile`, expected `signpost`. This could be a intended override, but in most cases indicates a broken mod.
-[18:27:01] [Server thread/INFO] [specialmobs]: Registering entities...
-[18:27:01] [Server thread/INFO] [specialmobs]: Registered 97 special variants!
-[18:27:01] [Server thread/INFO] [specialmobs]: Registered entities in 15.811062 ms
-[18:27:01] [Server thread/INFO] [FML]: Injecting itemstacks
-[18:27:01] [Server thread/INFO] [FML]: Itemstack injection complete
-[18:27:01] [Server thread/INFO] [DLDUNGEONS]: Loading custom NBT tags (nbt.cfg)
-[18:27:01] [Server thread/INFO] [DLDUNGEONS]: Loading chest loot file (chests.cfg)
-[18:27:01] [Server thread/INFO] [DLDUNGEONS]: Found 1 special chest configs.
-[18:27:01] [Server thread/INFO] [DLDUNGEONS]: Loading chest loot file (oceanic_chests.cfg)
-[18:27:01] [Server thread/INFO] [DLDUNGEONS]: Found 6 block family configs.
-[18:27:01] [Server thread/INFO] [DLDUNGEONS]: Found 12 themes.
-[18:27:01] [Server thread/INFO] [levelup2.LevelUp2]: [Level Up 2] Mod initialized!
-[18:27:01] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 25 mods
-[18:27:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[18:27:01] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[18:27:02] [Server thread/INFO] [FML]: Applying holder lookups
-[18:27:02] [Server thread/INFO] [FML]: Holder lookups applied
-[18:27:02] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[18:27:02] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 921 advancements
-[18:27:03] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[18:27:03] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[18:27:03] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[18:27:03] [Server thread/INFO] [FML]: Loading dimension 17 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[18:27:03] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[18:27:03] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[18:27:04] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 56%
-[18:27:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.940s)! For help, type "help" or "?"
-[18:27:05] [Server thread/INFO] [FML]: Unloading dimension -1
-[18:27:05] [Server thread/INFO] [FML]: Unloading dimension 1
-[18:27:05] [Server thread/INFO] [FML]: Unloading dimension 4
-[18:27:05] [Server thread/INFO] [FML]: Unloading dimension 17
-[18:27:05] [Server thread/INFO] [FML]: Unloading dimension 7
-[18:27:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Normal
-[18:27:50] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 2104
-[18:30:57] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[18:30:57] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
-[18:30:57] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[18:30:59] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:30:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:46195] logged in with entity id 337 at (-139.3293882689453, 69.0, 292.845208371639)
-[18:30:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
-[18:31:52] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[18:31:52] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
-[18:31:52] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
-[18:31:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:31:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:46603] logged in with entity id 901 at (-139.80520199669868, 65.0, 305.46831505535476)
-[18:31:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
-[18:39:47] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.projectile.EntityFishHook from class com.teammetallurgy.aquaculture.handlers.EntityCustomFishHook
-[18:43:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [A Seedy Place]
-[18:53:59] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce
-[19:07:52] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[19:07:52] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2859,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
-[19:07:52] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[19:07:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:07:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: CouthCamera2242[/127.39.205.109:48033] logged in with entity id 42956 at (-139.72170374691777, 65.0, 304.96284837034614)
-[19:07:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 joined the game
-[19:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> genteeeee
-[19:08:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> cuentaaaaa
-[19:08:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> discooooord
-[19:08:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> ??
-[19:16:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Zombie
-[19:17:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was slain by Zombie
-[19:19:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Mother Spider
-[19:25:52] [Server thread/INFO] [mca]: Villager death: Leanna. Caused by: Zombie. UUID: ce871df0-14e5-4162-af93-e5485795320b
-[19:26:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [Take Aim]
-[19:31:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 burned to death
-[19:32:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was slain by Zombie
-[19:35:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [Hot Stuff]
-[19:37:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Skeleton
-[19:38:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was shot by Skeleton
-[19:43:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: CouthCamera2242 moved wrongly!
-[19:44:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ToonKris> que paso cortaron?
-[19:45:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was burnt to a crisp whilst fighting Gatling Wither Skeleton
-[19:45:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was slain by Zombie
-[19:49:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [Monster Hunter]
-[19:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 tried to swim in lava to escape Wither Skeleton
-[19:50:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by Spitfire Skeleton
-[19:51:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [A Seedy Place]
-[19:52:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [The Parrots and the Bats]
-[19:54:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 hit the ground too hard
-[19:57:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Zombie
-[19:59:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Zombie Brute
-[20:01:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: angelo lost connection: Timed out
-[20:01:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo left the game
-[20:01:06] [Server thread/WARN] [twilightforest]: Dropping inventory items previously held in reserve for player angelo
-[20:03:52] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[20:03:52] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
-[20:03:52] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
-[20:03:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:03:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: angelo[/127.138.212.215:45957] logged in with entity id 136651 at (-344.55816518465696, 21.109999999403954, 105.08332127242339)
-[20:03:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo joined the game
-[20:03:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 'pacific' is not a valid number
-[20:05:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Peaceful
-[20:06:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <CouthCamera2242> sori
-[20:17:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 'ndifficulty' is not a valid number
-[20:18:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Peaceful
-[20:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Normal
-[20:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by Skeleton Knight
-[20:21:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 has made the advancement [Phat Loots]
-[20:22:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:22:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:23:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:24:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:24:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:25:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:27:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 tried to swim in lava to escape Skeleton Knight
-[20:28:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:29:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris was slain by angelo
-[20:30:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 was slain by angelo
-[20:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was slain by CouthCamera2242
-[20:31:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was slain by ToonKris using [Tempered Blade]
-[20:32:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: CouthCamera2242 lost connection: Disconnected
-[20:32:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: CouthCamera2242 left the game
-[20:43:00] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[20:43:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [We Need to Go Deeper]
-[20:43:03] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-16, 10] in dimension -1 (the_nether) while populating chunk [-15, 11], causing cascading worldgen lag.
-[20:43:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[20:43:03] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-13, 9] in dimension -1 (the_nether) while populating chunk [-12, 10], causing cascading worldgen lag.
-[20:43:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[20:43:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3265ms behind, skipping 65 tick(s)
-[20:46:52] [Server thread/INFO] [FML]: Unloading dimension -1
-[20:50:55] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[20:50:57] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.gildedgames.the_aether.entities.util.EntityMountable from class com.gildedgames.the_aether.entities.util.EntitySaddleMount
-[20:51:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Hostile Paradise]
-[20:51:00] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4494ms behind, skipping 89 tick(s)
-[20:51:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [Hostile Paradise]
-[20:51:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris fell from a high place
-[20:52:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
-[20:52:23] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
-[20:52:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
-[20:52:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
-[20:52:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
-[20:52:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity aether_legacy:parachute but it was marked as removed already
-[20:52:40] [Server thread/INFO] [FML]: Unloading dimension 4
-[20:52:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
-[20:54:18] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[20:54:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Timed out
-[20:54:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
-[20:54:37] [Server thread/INFO] [FML]: Unloading dimension 4
-[20:55:24] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[20:55:24] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
-[20:55:24] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[20:55:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:55:27] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[20:55:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:57775] logged in with entity id 955568 at (-139.95618071760487, 70.0, 304.4734140563266)
-[20:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
-[20:55:41] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: /127.183.74.177:56697 lost connection: Timed out
-[20:56:24] [Server thread/INFO] [FML]: Unloading dimension 4
-[20:56:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ToonKris moved too quickly! -0.9830927272475094,-9.984485112517206,-0.7055901126990989
-[20:56:36] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[20:57:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ToonKris moved too quickly! 0.0,-10.722248667987515,0.0
-[21:00:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
-[21:04:55] [Server thread/INFO] [FML]: Unloading dimension 4
-[21:07:06] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[21:08:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
-[21:14:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo hit the ground too hard
-[21:14:06] [Server thread/INFO] [FML]: Unloading dimension 4
-[21:15:26] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[21:15:42] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: angelo moved too quickly! 0.5197347088784596,258.46936352172685,-0.36104144499466884
-[21:15:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
-[21:15:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris fell from a high place
-[21:15:59] [Server thread/INFO] [FML]: Unloading dimension 4
-[21:16:11] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[21:16:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
-[21:18:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
-[21:19:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris hit the ground too hard
-[21:19:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ToonKris was kicked for floating too long!
-[21:19:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Flying is not enabled on this server
-[21:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
-[21:19:34] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[21:19:34] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
-[21:19:34] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[21:19:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:19:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:59129] logged in with entity id 1249361 at (-145.5, 70.0999984741211, 293.5)
-[21:19:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
-[21:20:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo was inebriated
-[21:21:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ToonKris moved too quickly! 0.0039456216036342084,-10.184074939147308,1.3598420328850125
-[21:32:47] [Server thread/INFO] [FML]: Unloading dimension 4
-[21:32:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
-[21:37:38] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[21:37:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris fell from a high place
-[21:41:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Disconnected
-[21:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
-[21:45:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo hit the ground too hard
-[21:45:09] [Server thread/INFO] [FML]: Unloading dimension 4
-[21:45:36] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[21:47:07] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[21:47:07] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
-[21:47:07] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
-[21:47:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:47:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:51855] logged in with entity id 1548839 at (-84.26551575321436, 37.0, 346.9531064509946)
-[21:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
-[21:52:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Disconnected
-[21:52:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
-[21:53:37] [Server thread/INFO] [FML]: Unloading dimension 4
-[21:53:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
-[21:55:49] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[21:55:49] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 26 mods : minecraft@1.12.2,levelup2@${version},dldungeonsjbg@1.14.14,dungeontactics@DT-0.16.9,signpost@1.08.5,baubles@1.5.2,mca@6.1.0,treasure2@2.3.2,jei@4.16.1.1013,roguelike@1.8.0,spartanshields@1.5.5,mcp@9.42,gravestone@1.10.3,journeymap@1.12.2-5.7.1p3,FML@8.0.99.99,gottschcore@1.15.1,atum@2.0.20,specialmobs@1.0.4_for_mc1.12.2,aether_legacy@1.5.4.1,aquaculture@1.6.8,forge@14.23.5.2860,ruins@17.2,cosmeticarmorreworked@1.12.2-v5a,twilightforest@3.11.1021,ignitehud@b0.5.4,mobends@1.2.1
-[21:55:49] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
-[21:55:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:55:51] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@2c5a667c)
-[21:55:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: ToonKris[/127.183.74.177:60575] logged in with entity id 1654961 at (-187.4481973970267, 51.0, 432.97246465820314)
-[21:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris joined the game
-[21:57:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [To infinity and beyond!]
-[21:59:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
-[21:59:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris has made the advancement [Do you believe in magic?]
-[22:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo fell from a high place
-[22:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo has made the advancement [To infinity and beyond!]
-[22:07:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ToonKris lost connection: Disconnected
-[22:07:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ToonKris left the game
-[22:07:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: angelo lost connection: Disconnected
-[22:07:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: angelo left the game
-[22:07:58] [Server thread/INFO] [FML]: Unloading dimension 4
+[22:10:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:10:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:10:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:10:51] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[22:10:51] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1026-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[22:10:51] [main/INFO] [FML]: Searching /workspaces/MineServer/servidor_minecraft/./mods for mods
+[22:10:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:10:51] [main/WARN] [FML]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:10:51] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from levelup2-1.5.8.jar
+[22:10:51] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[22:10:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:10:51] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[22:10:51] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/MineServer/servidor_minecraft/./mods/levelup2-1.5.8.jar Service=LaunchWrapper Env=SERVER
+[22:10:51] [main/WARN] [FML]: The coremod LevelUpCore (levelup2.core.LevelUpCore) is not signed!
+[22:10:51] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[22:10:52] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[22:10:52] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[22:10:52] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[22:10:52] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[22:10:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:53] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:10:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:53] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[22:10:53] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1d3e6d34
+[22:10:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:10:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:10:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:10:53] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:10:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:10:53] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:10:53] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[22:10:54] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:10:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:10:57] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[22:10:57] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:10:57] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:10:57] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:10:58] [Server thread/INFO] [FML]: Searching /workspaces/MineServer/servidor_minecraft/./mods for mods
+[22:10:58] [Server thread/WARN] [FML]: Mod cosmeticarmorreworked is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-v5a
+[22:10:58] [Server thread/INFO] [FML]: Disabling mod ignitehud it is client side only.
+[22:10:59] [Server thread/INFO] [FML]: Forge Mod Loader has identified 38 mods to load
+[22:10:59] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:10:59] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-conarm: assets/armoryexpansion-conarm/lang/en_us.lang
+[22:10:59] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-custommaterials: assets/armoryexpansion-custommaterials/lang/en_us.lang
+[22:10:59] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-iceandfire: assets/armoryexpansion-iceandfire/lang/en_us.lang
+[22:10:59] [Server thread/WARN] [FML]: Missing English translation for armoryexpansion-matteroverdrive: assets/armoryexpansion-matteroverdrive/lang/en_us.lang
+[22:10:59] [Server thread/WARN] [FML]: Missing English translation for dldungeonsjbg: assets/dldungeonsjbg/lang/en_us.lang
+[22:10:59] [Server thread/WARN] [FML]: Missing English translation for gottschcore: assets/gottschcore/lang/en_us.lang
+[22:10:59] [Server thread/WARN] [FML]: Missing English translation for mantle: assets/mantle/lang/en_us.lang
+[22:10:59] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
+[22:10:59] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[22:10:59] [Server thread/INFO] [FML]: FML has found a non-mod file IgniteHUD-b0.5.4.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:11:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, abyssaldepths, aether_legacy, aquaculture, armoryexpansion, armoryexpansion-conarm, armoryexpansion-custommaterials, armoryexpansion-iceandfire, armoryexpansion-matteroverdrive, atum, backpack, baubles, better_diving, conarm, coralreef, cosmeticarmorreworked, dldungeonsjbg, dungeontactics, gottschcore, gravestone, inventorytweaks, jei, journeymap, levelup2, mantle, mca, roguelike, ruins, signpost, lteleporters, spartanshields, specialmobs, tconstruct, treasure2, twilightforest] at CLIENT
+[22:11:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, abyssaldepths, aether_legacy, aquaculture, armoryexpansion, armoryexpansion-conarm, armoryexpansion-custommaterials, armoryexpansion-iceandfire, armoryexpansion-matteroverdrive, atum, backpack, baubles, better_diving, conarm, coralreef, cosmeticarmorreworked, dldungeonsjbg, dungeontactics, gottschcore, gravestone, inventorytweaks, jei, journeymap, levelup2, mantle, mca, roguelike, ruins, signpost, lteleporters, spartanshields, specialmobs, tconstruct, treasure2, twilightforest] at SERVER
+[22:11:01] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[22:11:01] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[22:11:01] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[22:11:01] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[22:11:01] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse wailaIntegration; missing dependency: waila
+[22:11:01] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[22:11:01] [Server thread/INFO] [Pulsar-tconstruct]: Skipping Pulse quarkIntegration; missing dependency: quark
+[22:11:01] [Server thread/INFO] [tconstruct]: Preparing to take over the world
+[22:11:01] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
+[22:11:01] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:11:02] [Server thread/INFO] [FML]: Found 1797 ObjectHolder annotations
+[22:11:02] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:11:02] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:11:02] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:11:02] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:11:02] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[22:11:02] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[22:11:03] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[22:11:03] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
+[22:11:03] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[22:11:03] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[22:11:03] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[22:11:03] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[22:11:03] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[22:11:03] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[22:11:03] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Tinkers' Construct.
+[22:11:03] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading config from local JSON file
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading config from source
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all materials from local JSON files
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all materials from source
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all material traits from local JSON files
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all material traits from source
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all ore dictionary entries from local JSON files
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all ore dictionary entries from source
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all alloys from local JSON files
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done loading all alloys from source
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving config to local JSON file
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all materials to local JSON files
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all material traits to local JSON files
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all ore dictionary entries to local JSON files
+[22:11:03] [Server thread/INFO] [armoryexpansion-custommaterials]: Done saving all alloys to local JSON files
+[22:11:03] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-GottschCore/1.12.2-master/update.json
+[22:11:03] [Forge Version Check/INFO] [forge.VersionCheck]: [gottschcore] Found status: AHEAD Target: null
+[22:11:03] [Forge Version Check/INFO] [forge.VersionCheck]: [treasure2] Starting version check at https://raw.githubusercontent.com/gottsch/gottsch-minecraft-Treasure/master/update.json
+[22:11:03] [Forge Version Check/INFO] [forge.VersionCheck]: [treasure2] Found status: BETA Target: null
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Doomlike Dungeons is in preInit, should now load config.
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Frequency Scaling Factor Set To: 8
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Minimum X Factor Set To: 16
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Difficulty set to: Normal difficulty.
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons in with world generation? true
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Will spawn dungeons even with structures disabled? false
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Will export item, block, and mob lists? false
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Will announce use of OP/cheat commands? true
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Will dungeons be easy to find? true
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Hub room (entrances and boss rooms) will have high ceiling? false
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: All dungeon will be huge? false
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Will dungeon all have single entrances? true
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Will themes be automatically install if themes folder is empty? true
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Can themes be (re)installed by command? true
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: adding END to excusion list
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Will use API? true
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Will allow API base mob change? true
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Will self-profile? false
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: themesdir will be set to /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes/
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: themesdir File is be set to /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: themesdir is /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/themes
+[22:11:03] [Server thread/INFO] [STDOUT]: [jaredbgreat.dldungeons.setup.Externalizer:makeChestCfg:206]: [DLDUNGEONS] Installing files /workspaces/MineServer/servidor_minecraft/config/DLDungeonsJBG/chests.cfg
+[22:11:03] [Server thread/INFO] [DLDUNGEONS]: Config should now be loaded.
+[22:11:04] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
+[22:11:04] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
+[22:11:04] [Server thread/INFO] [mca]: Loaded 1 supporters.
+[22:11:04] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[22:11:04] [Server thread/INFO] [specialmobs]: Loading configs...
+[22:11:04] [Server thread/INFO] [specialmobs]: Loaded configs in 596.094129 ms
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from local JSON file
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from source
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from local JSON files
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from source
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from local JSON files
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from source
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from local JSON files
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from source
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from local JSON files
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from source
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done saving config to local JSON file
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all materials to local JSON files
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all material traits to local JSON files
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all ore dictionary entries to local JSON files
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all alloys to local JSON files
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {knightmetal};
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {fierymetal};
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {nagascale};
+[22:11:05] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {steeleaf};
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lteleporter`, expected `lteleporters`. This could be a intended override, but in most cases indicates a broken mod.
+[22:11:06] [Server thread/INFO] [FML]: Applying holder lookups
+[22:11:06] [Server thread/INFO] [FML]: Holder lookups applied
+[22:11:06] [Server thread/INFO] [Backpack]: Loading items...
+[22:11:06] [Server thread/INFO] [Backpack]: 15 item features loaded.
+[22:11:06] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from local JSON file
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done loading config from source
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from local JSON files
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all materials from source
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from local JSON files
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all material traits from source
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from local JSON files
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all ore dictionary entries from source
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from local JSON files
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done loading all alloys from source
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done saving config to local JSON file
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all materials to local JSON files
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all material traits to local JSON files
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all ore dictionary entries to local JSON files
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Done saving all alloys to local JSON files
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {knightmetal};
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {fierymetal};
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {nagascale};
+[22:11:06] [Server thread/INFO] [armoryexpansion-conarm]: Registered stats for tinker's material {steeleaf};
+[22:11:06] [Server thread/INFO] [FML]: Applying holder lookups
+[22:11:06] [Server thread/INFO] [FML]: Holder lookups applied
+[22:11:06] [Server thread/INFO] [FML]: Applying holder lookups
+[22:11:06] [Server thread/INFO] [FML]: Holder lookups applied
+[22:11:06] [Server thread/INFO] [FML]: Applying holder lookups
+[22:11:06] [Server thread/INFO] [FML]: Holder lookups applied
+[22:11:06] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:11:06] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:11:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:11:07] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[22:11:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** FAILED TO BIND TO PORT!
+[22:11:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The exception was: io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: Address already in use
+[22:11:07] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: Perhaps a server is already running on that port?
+[22:11:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:11:07] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:11:07] [Server thread/INFO] [FML]: The state engine was in incorrect state POSTINITIALIZATION and forced into state SERVER_STOPPED. Errors may have been discarded.
+[22:11:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:11:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
